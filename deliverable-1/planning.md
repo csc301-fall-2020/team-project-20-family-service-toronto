@@ -72,7 +72,7 @@ Describe meetings (and other events) you are planning to have.
  * When and where? Recurring or ad hoc? In-person or online?
  * What's the purpose of each meeting?
  * Other events could be coding sessions, code reviews, quick weekly sync meeting online, etc.
- * You must have at least 2 meetings with your project partner (if you have one). Describe them here:
+ * You must have at least 2 meetings with your project partner (if you have one) before D1 is due. Describe them here:
    * What did you discuss during the meetings?
    * What were the outcomes of each meeting?
    * You must provide meeting minutes.
