@@ -65,6 +65,14 @@ Describe the different roles on the team and the responsibilities associated wit
 List each team member and:
  * A description of their role(s) and responsibilities including the components they'll work on and non-software related work
  * 3 technical strengths and weaknesses each (e.g. languages, frameworks, libraries, development methodologies, etc.)
+ 
+ Tiago Ferreira
+
+- I will take on the role of a Fullstack engineer. I will work to integrate some of the Company API's into our application and then build out simple front-end components that utilize those API's to provide our senior uses a simplified and easier to use version of that specific app (E.G. Using the Youtube API to built a simple coomponent that only allows you to search for videos and see the top 10 results and nothing else, and plays the video selected (See Mockup for better context)). 
+ 
+ - ```3 technical strengths```: Multiple internships so I am familar with working in a large team to develop software, familar with working with all kinds of API's using mutliple languages (JavaScript, Python, etc.), and familar building out UI'S for apps and websites using languages and frameworks like (HTML, CSS, JS, Bootstrap, React, Etc.). 
+ - ```3 technical weaknesses```: Unfamilar with IOS development using tools like Xcode and languages like Swift, unfamiliar with some company API's we might need (E.G. Facebook & Zoom), and no experience building mobile applications in an industry environment so may be unfamiliar with industry standards.
+ 
 
 #### Q7: What operational events will you have as a team?
 
@@ -119,3 +127,8 @@ and/or collaborative process.
     * Explain why the option you decided on makes the most sense for your team/product/users.
  * Essentially, we want to understand how (and why) you ended up with your current product and process plan.
  * This section is useful for important information regarding your decision making process that may not necessarily fit in other sections. 
+ 
+ ---
+ ## Software Mockup
+ 
+ ![Screenshot](mockup/mockup.png)
