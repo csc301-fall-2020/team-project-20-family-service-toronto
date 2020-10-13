@@ -112,12 +112,9 @@ Q7 response:
 * Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only         (project partner not present). 
 * Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has been recorded on WhenToMeet for           easy reference. Ad hoc meetings will be on Zoom and with be coordinated through the team Facebook Messenger group chat. 
 * Our meetings are used for the following purposes:
-    * Project progress chat
-       Each team member reports on they have accomplished on the project the past week
-    * Group troubleshoot session
-       Group members discuss any unsolved issues they have encounted the past week and the team attempts to troubleshoots the issues 
-    * Work allocation/reallocation
-       Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates aspects of the project individual team members
+    * Project progress chat: Each team member reports on they have accomplished on the project the past week
+    * Group troubleshoot session: Group members discuss any unsolved issues they have encounted the past week and the team attempts to troubleshoots the issues 
+    * Work allocation/reallocation: Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates aspects of the project individual team members
 * Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday. 
 * Meeting minutes to all our group meetings (including both sessions with Project Partner and sessions within team members only) can be found here: 
  https://docs.google.com/document/d/1qTB5BxwvksWi4nVMG1icAFfm5Gksd37m92mA0ErPzJA/edit?fbclid=IwAR24smdFHlDZAO9mQkIMqF68BwrtHEBkzq4ookYeBCVQn08uXYOx9G3Axyk
