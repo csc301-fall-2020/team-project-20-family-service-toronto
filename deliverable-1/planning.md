@@ -52,6 +52,15 @@
  * You must follow proper user story format (as taught in lecture) ```As a <user of the app>, I want to <do something in the app> in order to <accomplish some goal>```
  * If you have a partner, these must be reviewed and accepted by them
  * The user stories should be written in Github and each one must have clear acceptance criteria.
+  
+User Stories:
+1. As an 82 year old man, Thomas wants to be able to simply click a name to have a video call with his grandchildren without having to deal with the confusing settings and small menus of Zoom.
+2. As a 66 year old, Ethel wants to be able to watch baking recipes on YouTube just by searching and clicking on a related video without having to deal with so many buttons and recommendations/autoplay and subscriptions from YouTube.
+3. At 72, Ming wants to be able to see all the emails and app notifications he gets in one place without having to remember which app does what, and where they are in his app drawer and miss something important.
+4. At 78 years old, Geeta wants to see and bookmark results for her web search without the clutter of pages and pages of results, sponsored content and ads, complicated tabs, advanced settings, and bookmark folders.
+5. At 68 years old, Greg would like to be able to open up the app, and start messaging his friends and keeping up with his family on Facebook in just a few clicks without the overwhelming number of settings and buttons and tabs on the Facebook app that he can't find on his home screen.
+6. At 87 years old, Zorya wants to be able to use the basic functions of her phone like check the weather or call her daughter without having to navigate through different apps and an overwhelming phone UI.
+
 
 ----
 
@@ -73,7 +82,20 @@ List each team member and:
  - ```3 technical strengths```: Multiple internships so I am familar with working in a large team to develop software, familar with working with all kinds of API's using mutliple languages (JavaScript, Python, etc.), and familar building out UI'S for apps and websites using languages and frameworks like (HTML, CSS, JS, Bootstrap, React, Etc.). 
  - ```3 technical weaknesses```: Unfamilar with IOS development using tools like Xcode and languages like Swift, unfamiliar with some company API's we might need (E.G. Facebook & Zoom), and no experience building mobile applications in an industry environment so may be unfamiliar with industry standards.
  
+Kshitij Shah
 
+  - I will take on the role of a front-end developer. This involves developing user facing components in the applications. Primarily implementing visual elements that users interact with and additionally acting as a translator from user input to functionality on the back-end. This includes responsibilities such as implementing the UI, and making it suitable for different screens/use cases, accepting and validating user inputs when appropriate, mechanism for presenting feedback to users, etc. 
+ 
+  - ```3 technical strengths```: 
+    - I have experience working with creating MVP's in small teams with Agile methodology from previous a internship. 
+    - I'm very familiar with using Git in the context of a large scale product with many contributors in a way that optimizes for modularity and easy-to-review pull requests. 
+    - I have course and internship experience working with languages Python, JavaScript, C, as well as with many frameworks and supporting tools (e.g. React, CSS, HTML, Bootstrap) in a Unix environment.
+
+  - ```3 technical weaknesses```:
+    - My mobile experience is limited to that from A1, using React Native. I have 0 experience with native development on iOS/Android and languages/tools/best practices for design.
+    - I've never worked directly with API's written by other people, so incorporating API's from existing products (e.g. YouTube, Facebook, ...) that our software will integrate or working with backend's implemented by other team members will be challenging.
+    - In previous experiences, I have been in full control of the product/stack; I followed my own style guide/development strategy as opposed to integrating with others.0
+ 
 #### Q7: What operational events will you have as a team?
 
 Describe meetings (and other events) you are planning to have. 
