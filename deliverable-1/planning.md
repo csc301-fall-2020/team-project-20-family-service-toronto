@@ -100,26 +100,26 @@ Kshitij Shah
 
 Describe meetings (and other events) you are planning to have. 
  * When and where? Recurring or ad hoc? In-person or online?
-      * Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only         (project partner not present). Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has           been recorded on WhenToMeet 
  * What's the purpose of each meeting?
  * Other events could be coding sessions, code reviews, quick weekly sync meeting online, etc.
  * You must have at least 2 meetings with your project partner (if you have one) before D1 is due. Describe them here:
    * What did you discuss during the meetings?
    * What were the outcomes of each meeting?
    * You must provide meeting minutes.
-   * You must have a regular meeting schedule established by the second meeting.  
+   * You must have a regular meeting schedule established by the second meeting.
    
- * Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only (project partner not present). Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has been recorded on WhenToMeet 
- * Our meetings are used for the following purposes:
+Q7 response:
+* Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only         (project partner not present). 
+* Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has been recorded on WhenToMeet for           easy reference. Ad hoc meetings will be on Zoom and with be coordinated through the team Facebook Messenger group chat. 
+* Our meetings are used for the following purposes:
     * Project progress chat
        Each team member reports on they have accomplished on the project the past week
     * Group troubleshoot session
        Group members discuss any unsolved issues they have encounted the past week and the team attempts to troubleshoots the issues 
     * Work allocation/reallocation
        Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates aspects of the project individual team members
- * Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday. 
- 
- * Meeting minutes to all our group meetings (including both sessions with Project Partner and sessions within team members only) can be found here: 
+* Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday. 
+* Meeting minutes to all our group meetings (including both sessions with Project Partner and sessions within team members only) can be found here: 
  https://docs.google.com/document/d/1qTB5BxwvksWi4nVMG1icAFfm5Gksd37m92mA0ErPzJA/edit?fbclid=IwAR24smdFHlDZAO9mQkIMqF68BwrtHEBkzq4ookYeBCVQn08uXYOx9G3Axyk
  
 #### Q8: What artifacts will you use to self-organize?
