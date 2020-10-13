@@ -100,6 +100,7 @@ Kshitij Shah
 
 Describe meetings (and other events) you are planning to have. 
  * When and where? Recurring or ad hoc? In-person or online?
+      * Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only         (project partner not present). Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has           been recorded on WhenToMeet 
  * What's the purpose of each meeting?
  * Other events could be coding sessions, code reviews, quick weekly sync meeting online, etc.
  * You must have at least 2 meetings with your project partner (if you have one) before D1 is due. Describe them here:
@@ -110,11 +111,11 @@ Describe meetings (and other events) you are planning to have.
    
  * Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only (project partner not present). Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has been recorded on WhenToMeet 
  * Our meetings are used for the following purposes:
-    * - Project progress chat
+    * Project progress chat
        Each team member reports on they have accomplished on the project the past week
-    * - Group troubleshoot session
+    * Group troubleshoot session
        Group members discuss any unsolved issues they have encounted the past week and the team attempts to troubleshoots the issues 
-    * - Work allocation/reallocation
+    * Work allocation/reallocation
        Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates aspects of the project individual team members
  * Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday. 
  
