@@ -79,7 +79,7 @@ List each team member and:
 
 - I will take on the role of a Fullstack engineer. I will work to integrate some of the Company API's into our application and then build out simple front-end components that utilize those API's to provide our senior uses a simplified and easier to use version of that specific app (E.G. Using the Youtube API to built a simple coomponent that only allows you to search for videos and see the top 10 results and nothing else, and plays the video selected (See Mockup for better context)). 
  
- - ```3 technical strengths```: Multiple internships so I am familar with working in a large team to develop software, familar with working with all kinds of API's using mutliple languages (JavaScript, Python, etc.), and familar building out UI'S for apps and websites using languages and frameworks like (HTML, CSS, JS, Bootstrap, React, Etc.). 
+ - ```3 technical strengths```: Multiple internships so I am familar with working in a large team to develop software, familar with working with all kinds of API's using multiple languages (JavaScript, Python, etc.), and familar building out UI'S for apps and websites using languages and frameworks like (HTML, CSS, JS, Bootstrap, React, Etc.). 
  - ```3 technical weaknesses```: Unfamilar with IOS development using tools like Xcode and languages like Swift, unfamiliar with some company API's we might need (E.G. Facebook & Zoom), and no experience building mobile applications in an industry environment so may be unfamiliar with industry standards.
  
 Kshitij Shah
@@ -95,7 +95,21 @@ Kshitij Shah
     - My mobile experience is limited to that from A1, using React Native. I have 0 experience with native development on iOS/Android and languages/tools/best practices for design.
     - I've never worked directly with API's written by other people, so incorporating API's from existing products (e.g. YouTube, Facebook, ...) that our software will integrate or working with backend's implemented by other team members will be challenging.
     - In previous experiences, I have been in full control of the product/stack; I followed my own style guide/development strategy as opposed to integrating with others.0
+
+Ziyao Han
+
+ - I will take on the role of a Quality Assurance Engineer. In this role, I will ensure that our application meets the requirements of the product owner and work to guard the application from bugs, errors, and defects. I will work to create automated tests, integrated tests, and other tools and methods in order to make sure that our application is running as expected. In addition, I will participate in code review sessions and provide meaningful feedback.
  
+  - ```3 technical strengths```: 
+    - I am familiar working in a group environment to develop an medium-large scale applications through previous experiences. 
+    - Through multiple projects and experiences, I have learned and familiarized myself with many of the tools and langauges we will be working on with this project such as Python, Java, React, JS, CSS.
+    - I am comfortable performing collaboration-based development through Git and performing tasks such as code reviews, branch management, and pair programming.
+    
+  - ```3 technical weaknesses```: 
+    - I have limited experience working in a mobile development environment and working with tools such as Swift, Android Studio, etc
+    - I am unfamiliar with integrating third-party API's from existing products (e.g. YouTube, Facebook, ...) into an application and developing tools such as integrated video players, etc. 
+    - This is my first time working to develop a real world application with my previous experiences being in an educational environment.
+
 #### Q7: What operational events will you have as a team?
 
 Describe meetings (and other events) you are planning to have. 
