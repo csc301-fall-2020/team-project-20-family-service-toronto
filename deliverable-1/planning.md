@@ -64,7 +64,6 @@ User Stories:
 5. At 68 years old, Greg would like to be able to open up the app, and start messaging his friends and keeping up with his family on Facebook in just a few clicks without the overwhelming number of settings and buttons and tabs on the Facebook app that he can't find on his home screen.
 6. At 87 years old, Zorya wants to be able to use the basic functions of her phone like check the weather or call her daughter without having to navigate through different apps and an overwhelming phone UI.
 
-
 ----
 
 ## Process Details
@@ -112,6 +111,20 @@ Ziyao Han
     - I have limited experience working in a mobile development environment and working with tools such as Swift, Android Studio, etc
     - I am unfamiliar with integrating third-party API's from existing products (e.g. YouTube, Facebook, ...) into an application and developing tools such as integrated video players, etc. 
     - This is my first time working to develop a real world application with my previous experiences being in an educational environment.
+
+Nancy Zhao
+
+- I will take on the role of Fullstack Engineer. This involves integrating with APIs, building out the interaction flows given our user stories, and overall working on any needed frontend/backend/database tasks.
+
+- ```3 technical strengths```:
+    - I have experience in backend engineering, with various stacks in previous internships, and using languages such as Python, Ruby, C#, Java, and JavaScript.
+    - I have experience in frontend engineering, with various stacks in previous internships, having used JavaScript/TypeScript, React, and different UI frameworks such as Semantic UI and Fluent UI.
+    - I am familiar with version control with Git and scrum practices with GitHub and Azure DevOps, and comfortable with code reviews, branch management, and pair programming.
+
+- ```3 technical weaknesses```:
+    - My mobile development experience is limited, having only done an Android project two years ago and the React Native portion of A1.
+    - I'm not as familiar with design sprint and user research practices, having only observed from working with designers and product managers in the past.
+    - I'm not familiar with the APIs of the platforms we would be working with; Facebook, YouTube, Zoom, etc.
 
 #### Q7: What operational events will you have as a team?
 
