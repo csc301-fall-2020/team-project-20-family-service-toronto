@@ -202,9 +202,21 @@ and/or collaborative process.
 
 #### 1: Tuesday, October 6
 
+First meeting with Rodrigo Briones, from Family Service Toronto (FST). We went over introductions, challenges seniors face when using technology, and logistics for the semester - weekly meetings with Rodrigo, and communication via email.
+
 #### 2: Thursday, October 8
 
+First team meeting. Compiled questions for next meeting with FST, and went through a design exercise with the team to visualize each member's ideas for the product. Crazy 8s - spent 15 minutes sketching out how we saw the product and its workflow in our minds, and went one by one to present and compiled our ideas which led to our software mockup. Some questions we came up with were:
+
+* What are the required apps and functionalities?
+  * What do seniors want to configure in each app?
+  * What part or step of accessing each app do seniors have the most trouble with?
+* How do we differentiate our product from just putting the existing app icon on a mobile phone's homepage?
+* What additional features could we add that would benefit our target audience?
+
 #### 3: Tuesday, October 13
+
+Team meeting with Rodrigo, who will be meeting with a group of seniors after this meeting. Rodrigo will gather some data: required apps list, most used/wanted apps. We showed our project mockups to Rodrigo, who liked the ideas of having a screen with small group of selected app logos that the senior can access, and the simplified interface of each app that reduces steps and complex functionalities. Some examples: simplifying steps of accessing Zoom, saving meetings.
 
 ----
 
