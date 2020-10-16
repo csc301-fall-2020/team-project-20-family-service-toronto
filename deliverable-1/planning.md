@@ -193,7 +193,7 @@ Describe meetings (and other events) you are planning to have.
 * Our meetings are used for the following purposes:
   * Project progress chat: Each team member reports on they have accomplished on the project the past week
   * Group troubleshoot session: Group members discuss any unsolved issues they have encounted the past week and the team attempts to troubleshoots the issues
-  * Work allocation/reallocation: Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates aspects of the project individual team members
+  * Work allocation/reallocation: Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates tasks and aspects of the project individual team members. If there are many tasks, a task prioritization discussion occurs.
 * Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday.
 * Meeting minutes to all our group meetings (including both sessions with Project Partner and sessions within team members only) can be found here: <https://docs.google.com/document/d/1qTB5BxwvksWi4nVMG1icAFfm5Gksd37m92mA0ErPzJA/edit?fbclid=IwAR24smdFHlDZAO9mQkIMqF68BwrtHEBkzq4ookYeBCVQn08uXYOx9G3Axyk>
 
@@ -207,6 +207,25 @@ List/describe the artifacts you will produce in order to organize your team.
   * How do you prioritize tasks?
   * How do tasks get assigned to team members?
   * How do you determine the status of work from inception to completion?
+
+#### Q8 response
+
+* Artifacts include: Meeting Minutes, WhenToMeet, Task Document 
+
+    * Meeting minutes: All discussions during the recurring weekly meetings and ad hoc meetings are recorded on our meeting minutes google document. (Link included in Q7 response)
+
+    * WhenToMeet: A website that allows multiple people to record their general availability. All members have already indicated their general weekly availability on the group project WhenToMeet link. This allows for easy scheduling for ad hoc meetings.
+
+    * Task document: A shared google doc, to keep up with who does what. Every team member's name is present on the "Task Document" and their to-dos/tasks are listed under their name. Tasks that should be prioritized are marked with an asterisk. Tasks of utmost importance and priority will be marked with multiple asterisks.
+
+* Further explanation on how forementioned artifacts are used: 
+
+    * Tasks are assigned to team members based on a team member's agenda (what they want to do) and experience. Discussions on who does what occurs during the work allocation/reallocation period in weekly meetings as well as ad hoc meetings. All discussions are recorded in the meeting minutes. Tasks are recorded on the  Task Document as they are assigned. 
+
+    * Tasks are prioritized based on tasks prioritization discussions that take place during weekly meetings. Discussions are recorded in the meeting minutes. Prioritized tasks are marked with asterisk(s) in the Task Document. 
+
+    * The big picture ideas on the project are discussed during team meetings. Discussions of how to break down the big picture ideas into individual steps to get work done from inception to completion also occurs during team meetings. All such discussions are recorded on meeting minutes. Note that the tasks recorded on the  Task Document are the broken down individual steps. This way of discussion recording project tasks allows us to determine the status of work from inception to completion. 
+
 
 ### Q9: What are the rules regarding how your team works?
 
@@ -224,6 +243,7 @@ Describe your team's working culture.
 **Conflict Resolution:**
 
 * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Any other scenarios you can think of?
+
 
 ----
 
