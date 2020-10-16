@@ -51,6 +51,14 @@
 * Will you be using third party applications or APIs? If so, what are they?
 * What is your testing strategy?
 
+### Q4 Response
+* We will be using React-native framework to develop the app. The languages we will be using for frontend are JavaScript, CSS and HTML, and for backend we will be using NodeJS.
+* We will be deploying the application to both the android app store and the IOS app store.
+* Our appliction will follow an MVC architecture. Where, in the model component, we are processing data from any databases we will be using in the app, in the view component, we will be displaying the visualization of our app, and in the controller component we will be controlling the flow of data between the view and the model depending on the actions of the user. 
+* Yes, we are planning on using several APIs, such as the Facebook API, Youtube API, Whatsapp Api, etc.
+* We will be using the Jest testing framework to test our react-native app. Using Jest to test a react-native app is known to be painless as the framework is already included in the react-native setup. Specifically, we will be using Jest to test how our model component processes our data from databases, and testing to make sure that the controller component of our application is accurately handling data from model so that it displays correctly onto the view.
+
+
 ### Q5: What are the user stories that make up the MVP?
 
 * At least 5 user stories concerning the main features of the application - note that this can broken down further
@@ -130,6 +138,21 @@ List each team member and:
   * My mobile development experience is limited, having only done an Android project two years ago and the React Native portion of A1.
   * I'm not as familiar with design sprint and user research practices, having only observed from working with designers and product managers in the past.
   * I'm not familiar with the APIs of the platforms we would be working with; Facebook, YouTube, Zoom, etc.
+ 
+#### Julia Cwiek
+
+* I will take on the role of a Backend developer. I will work to integrate some of the Company API's into our application and then build out simple front-end components that utilize those API's to provide our senior uses a simplified and easier to use version of that specific app (E.G. Using the Youtube API to built a simple coomponent that only allows you to search for videos and see the top 10 results and nothing else, and plays the video selected (See Mockup for better context)).
+
+* ```3 technical strengths```: 
+    * Multiple internships, and so I am familiar and comfortable with working as a backend developer for large-scale applications in teams of this size
+    * Familiarity with NodeJS from previous work/shool experience (backend stack) and HTML, CSS and JS (frontend stack)
+    * Some familiarity with using APIs in development (from a Hackathon)
+  
+* ```3 technical weaknesses```: 
+    * Very limited experience with mobile development
+    * Not familiar with the APIs we will be using for this project (Facebook, Youtube, etc)
+    * Not very familiar with the react-native framework
+
 
 ### Q7: What operational events will you have as a team?
 
