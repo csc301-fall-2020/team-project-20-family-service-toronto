@@ -19,6 +19,15 @@
   For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
 * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
 
+### Q1 Response
+The product we are planning to build is a mobile application that will make navigation of one's mobile device easy and intuitive. Many elderly peoples are challenged by the advent of complicated technologies that burden them with multiple steps, complicated interfaces, and intricate settings. Our goal is to develop our mobile application to be far less burdensome to the users and allow for them to install and go.
+
+We plan to develop a single application with an simple screen with big icons of daily use applications. Following setup, the application should function as an all-in-one application to do many of things the user would like to do (e.g. Whatsapp, Zoom, Messages, Photo, Youtube, etc). Our users will be able to open apps from our application and help them do simple tasks. They can message/call people, watch a movie, or find notifications. For example, if the user would like to watch a video, instead of having to navigate the Youtube app, which is constantly changing, we plan to implement a integrated youtuber player into our application for easy use.
+
+As shown, our application hopes to make the usage of mobile device simple and intuitive, in hopes of reducing the intimidation factor of these fantastically useful devices for senior peoples. Moreover, we hope that the application we develop will help seniors become more happy and able to use the mobile device instead of being an area of frustration. 
+
+[Mock-up Application](#software-mockup)
+
 ### Q2: Who are your target users?
 
 > Short (1 - 2 min' read max)
@@ -27,7 +36,12 @@
 * **Feel free (but not obligated) to use personas.
   You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).**
 
-  Our Application's target users are seniors but can also be used by people whom are less technologically literate. The key functionality of our application is to make mobile phone more approachable and less daunting to unfamiliar users. Especially due to the events of COVID-19, many users have become more dependant on using technology such as the mobile phone for everyday services. This is compounded by the fact that members of the senior community are especially vulnerable in the current global health emergency. Many of the useful technologies such as Facebook and Zoom have complicated interfaces that is incredibly discouraging to these users and can lead to frustration and avoidance. Our application aims to make the experience easier and less intimidating for senior users. Which we hope will help members of the senior community become more accustomed to using some of the fantastic tools we have today.
+### Q2 Response
+Our Application's target users are seniors but can also be used by people whom are less technologically literate. The key functionality of our application is to make mobile phone more approachable and less daunting to unfamiliar users. Especially due to the events of COVID-19, many users have become more dependant on using technology such as the mobile phone for everyday services. This is compounded by the fact that members of the senior community are especially vulnerable in the current global health emergency. Many of the useful technologies such as Facebook and Zoom have complicated interfaces that is incredibly discouraging to these users and can lead to frustration and avoidance. Our application aims to make the experience easier and less intimidating for senior users. Which we hope will help members of the senior community become more accustomed to using some of the fantastic tools we have today.
+
+Some example personas include:
+* A 74-year-old women from Toronto whom has been using a flip phone for the last 10 years recieves a new Google Pixel 4 from her son for daily use and calls with her grandchildren. After her son helps her setup the app, she should be able to open the application and do the things she opens to do on her phone like opening Zoom to chat with her grandchildren.
+* A 80-year-old man struggles to use the mobile phone. It is a big point of stress for him. He does not want people lecture him about how use phone as it makes him very nervous and causes him to feel distressed. The application should be setup for him and he would only need to click to do the things he needs to do without complicated instructions. We hope to get him more familizared with the smartphone and dissociate it from stress.
   
 ### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
@@ -40,6 +54,11 @@
   * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
   * Does this application exist in another form? If so, how does your differ and provide value to the users?
   * How does this align with your partner's organization's values/mission/mandate?
+
+### Q3 Response
+Our application hopes to make the mobile navigation of one's device simple and intuitive for senior and elderly users. Our application hopes to make the experience less intimidating and save an inexperienced user time navigating through their phone. This application will be easy to use with big, personable icons that do exactly what the user wants it to do. The application will have imbedded API of certain apps (where applicable) to make usage of those apps easier and build within our app. Another features include simple notifications and reminders for the users if necessary. Most of all, we hope to make our app easier to use than navigating the phone normally, without an abundance of intimidating features or else it would defeat the purpose it was intending to combat. 
+
+The features of application are all discussed and approved by our partner organization and aid's in their organization's goal in helping seniors. In addition, we requested a list of the most used apps by their users in order to develop our application. Especially during these trying times, using the smart phone should not be a major cause of stress  on-top of other things in their lives. 
 
 ### Q4: How will you build it?
 
