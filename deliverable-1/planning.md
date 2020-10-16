@@ -141,7 +141,7 @@ List each team member and:
  
 #### Julia Cwiek
 
-* I will take on the role of a Backend developer. I will work to integrate some of the Company API's into our application and then build out simple front-end components that utilize those API's to provide our senior uses a simplified and easier to use version of that specific app (E.G. Using the Youtube API to built a simple coomponent that only allows you to search for videos and see the top 10 results and nothing else, and plays the video selected (See Mockup for better context)).
+* I will take on the role of a Backend developer. This role involves integrating with APIs and working on any database related tasks. I will likewise be reviewing code and making sure that the code that the team is outputting is readable, in order to simulate industry standards and make sure that our codebase is neat and organized.
 
 * ```3 technical strengths```: 
     * Multiple internships, and so I am familiar and comfortable with working as a backend developer for large-scale applications in teams of this size
