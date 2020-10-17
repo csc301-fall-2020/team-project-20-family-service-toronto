@@ -179,7 +179,7 @@ List each team member and:
 * ```3 technical strengths```:
   * I have experience working with HTML, CSS, JavaScript, Bootstrap 
   * I have experience creating intuitive and functional webpage designs for mobile applications 
-  * I have a good understanding of the MVC architecture 
+  * I have experience working with MVC architecture 
   
 * ```3 technical weaknesses```:
   * I have limited mobile development experience, only having used Android Studio to develop mobile applications in the past
