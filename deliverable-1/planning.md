@@ -1,4 +1,4 @@
-# YOUR PRODUCT/TEAM NAME
+# Senior Simple Screen Development Team
 
 > _Note:_ This document is meant to evolve throughout the planning phase of your project.   That is, it makes sense for you commit regularly to this file while working on the project (especially edits/additions/deletions to the _Highlights_ section). Most importantly, it is a reflection of all the planning you work you've done in the first iteration.
 > **This document will serve as a master plan between your team, your partner and your TA.**
@@ -243,6 +243,32 @@ Describe your team's working culture.
 **Conflict Resolution:**
 
 * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Any other scenarios you can think of?
+
+#### Q9 response
+
+**Communications:**
+* Members are expected to check the Facebook Messenger Chat once per day and attend the recurring weekly meetings. All group communications outside of team meetings are expected to be done in the Facebook messenger group chat, ad hoc meetings are to be scheduled through the chat if necessary.
+* Rodrigo (project partner) and the team have weekly Zoom meetings on Tuesdays 12:00 PM weekly. Communication is also conducted through group emails between Rodrigo and all team members. A group member responds to emails within 2 days of receiving them. 
+
+**Meetings:**
+* All members are expected to attend the weekly team member meetings on Wednesday as well as the weekly meetings with Rodrigo on Tuesday. 
+* If a group member has to miss a meeting, he/she is expected to notify with the rest of the group prior to the meeting through the Facebook Messenger chat.
+* Each team member reports on their progress on assigned tasks during the beginning of Wednesday team meetings (project progress chat). 
+
+**Conflict Resolution:**
+* Non-responsive team members. A team member does not do assigned tasks: 1. Have a chat with the team member with the aim of understanding the cause of the team member not doing their tasks. Have a series of questions to ask if the team member does not give a concrete cause to their non-responsiveness. Examples include:
+Is there anything happening in your life that is affecting your ability to do tasks? 
+Have you lost motivation for doing the project? 
+Do you find it hard regulating yourself to do the project? 
+2. Problem solve. Make to help the team member be able to complete their tasks. 
+For example:
+If the team member is having a situation in their personal life that prevents them from doing assigned tasks. I would schedule a meeting with the project assigned TA and the struggling team member to discuss next steps.
+If the team member has lost motivation for the project. I would try to figure out why they have lost motivation. If they feel like there are more interesting tasks they can do that are more rewarding to them, I would have a group discussion about this and assign more personally interesting tasks for the team member. I will also do more regular check-ins with said team member to make sure they are progressing on their tasks. 
+If the team member is having trouble regulating themself in doing the project, I would come up with ways to help them regulate themselves. For example, daily calls to help them keep track with progress, or work-together Zoom calls where we are on video while working on the project. 
+
+* Indecisions. The team cannot decide on a design decision: 1. Lay out the context of the situation. What are we trying to aim for? Why is this decision important? Who is involved in this decision? 2. Come up with a list of choices  an make a pros and cons list for each choice. Make sure to get input from everyone involved. 3. With the context of the situation and the pros and cons of the list of choices in mind, have a discussion with the people involved and come up with a mutual decision. 
+
+* There is an argument between two team members and they refuse to speak to each other: 1. Understand the conflict. Talk to each team member individually to understand both of their viewpoints. 2. Encourage both team members to try to work out the argument themselves. 3. Find common ground: If the two team members are unable to work out the argument themselves, find common ground between what the two team member wants. Have a meeting with the two team members. Summarize why there is and argument between the two team members, what the two have in common in terms of what they want, and propose a suggested solution to their disagreement. 
 
 
 ----
