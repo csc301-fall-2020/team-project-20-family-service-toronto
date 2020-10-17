@@ -171,7 +171,21 @@ List each team member and:
     * Very limited experience with mobile development
     * Not familiar with the APIs we will be using for this project (Facebook, Youtube, etc)
     * Not very familiar with the react-native framework
+    
+#### Wing Chung Jessie Lam 
 
+* I will take on the role of a Frontend developer. I will be determining the structure and design of the mobile application, ensuring the visual components of our applications are intuitive, simple and responsive. I will ensure the user input is properly handled and translated into the backend. My responsibilities include implementing the UI/UX, implementing appropriate functions to handle user input, implementing validation checks for user input etc.
+
+* ```3 technical strengths```:
+  * I have experience working with HTML, CSS, JavaScript, Bootstrap 
+  * I have experience creating intuitive functional applications for a small businesss/non-profit
+  * I am experienced in creating responsive designs 
+  
+* ```3 technical weaknesses```:
+  * I have limited mobile development experience, only having used Android Studio to develop mobile applications in the past
+  * I have limited experience using the react-native framework
+  * I am not familliar with the APIs we will be working with in this project (Facebook, Youtube, Zoom etc.)
+ 
 
 ### Q7: What operational events will you have as a team?
 
