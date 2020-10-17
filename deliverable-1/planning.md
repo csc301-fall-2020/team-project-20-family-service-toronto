@@ -210,8 +210,8 @@ Describe meetings (and other events) you are planning to have.
   * Work allocation/reallocation: Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates tasks and aspects of the project individual team members. If there are many tasks, a task prioritization discussion occurs.
 * Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday.
 * Meeting minutes to all our group meetings (including both sessions with Project Partner and sessions within team members only) can be found here: <https://docs.google.com/document/d/1qTB5BxwvksWi4nVMG1icAFfm5Gksd37m92mA0ErPzJA/edit?fbclid=IwAR24smdFHlDZAO9mQkIMqF68BwrtHEBkzq4ookYeBCVQn08uXYOx9G3Axyk>
-
-### Q8: What artifacts will you use to self-organize?
+    * Summary of first meeting with Rodrigo Briones, from Family Service Toronto (FST): The team and Rodrigo introduces themselves. Rodrigo described the challenges seniors face when using technology. He wants a product that reduces number of steps needed to use an a mobile application (such as not needing to click on multiple buttons to join a zoom session). He also wants to the product to address general challenges seniors have when using technology. We then talked about communicating through email. 
+    * Summary of the second meeting with Rodrigo Briones: Rodrigo will meet with a group of seniors to gather data on apps he wants use to simplify and include in our simple mobile UI. We presented our project mockups to Rodrigo, who liked our ideas of 1) Creating a simpler mobile screen UI with only the agreed most important/most-used apps displayed 2)The creation of a simplified interface with reduced steps and functionality of each app displayed in the mobile UI. 
 
 List/describe the artifacts you will produce in order to organize your team.
 
