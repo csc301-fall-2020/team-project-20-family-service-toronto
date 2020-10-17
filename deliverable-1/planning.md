@@ -306,7 +306,7 @@ First meeting with Rodrigo Briones, from Family Service Toronto (FST). We went o
 
 #### 2: Thursday, October 8
 
-First team meeting. Compiled questions for next meeting with FST, and went through a design exercise with the team to visualize each member's ideas for the product. Crazy 8s - spent 15 minutes sketching out how we saw the product and its workflow in our minds, and went one by one to present and compiled our ideas which led to our software mockup. Some questions we came up with were:
+Team meeting. Compiled questions for next meeting with FST, and went through a design exercise with the team to visualize each member's ideas for the product. Crazy 8s - spent 15 minutes sketching out how we saw the product and its workflow in our minds, and went one by one to present and compiled our ideas which led to our software mockup. Some questions we came up with were:
 
 * What are the required apps and functionalities?
   * What do seniors want to configure in each app?
