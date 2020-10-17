@@ -202,15 +202,14 @@ Describe meetings (and other events) you are planning to have.
 
 #### Q7 response
 
-* Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only (project partner not present).
-* Our team also agrees on having ad hoc team meetings if need be. Everyone's general availability throughout the week has been recorded on WhenToMeet for easy reference. Ad hoc meetings will be on Zoom and with be coordinated through the team Facebook Messenger group chat.
+* Our team has recurring team meetings every Wednesday starting at 8:00 PM. The meetings are held through Zoom. These meetings are within team members only (project partner not present). Our team also agrees on having ad hoc team meetings if need be. Ad hoc meetings will be coordinated through the team Facebook Messenger group chat.
 * Our meetings are used for the following purposes:
   * Project progress chat: Each team member reports on they have accomplished on the project the past week
   * Group troubleshoot session: Group members discuss any unsolved issues they have encounted the past week and the team attempts to troubleshoots the issues
   * Work allocation/reallocation: Based on the progress chat and troubleshoot session, if need be, the group allocated/reallocates tasks and aspects of the project individual team members. If there are many tasks, a task prioritization discussion occurs.
 * Our team has weekly meetings with our project partner, Rodrigo, through Zoom every week at 12:00 PM Tuesday.
-    * Summary of first meeting with Rodrigo Briones, from Family Service Toronto (FST): The team and Rodrigo introduces themselves. Rodrigo described the challenges seniors face when using technology. He wants a product that reduces number of steps needed to use an a mobile application (such as not needing to click on multiple buttons to join a zoom session). He also wants to the product to address general challenges seniors have when using technology. We then talked about communicating through email. 
-    * Summary of the second meeting with Rodrigo Briones: Rodrigo will meet with a group of seniors to gather data on apps he wants use to simplify and include in our simple mobile UI. We presented our project mockups to Rodrigo, who liked our ideas of 1) Creating a simpler mobile screen UI with only the agreed most important/most-used apps displayed 2)The creation of a simplified interface with reduced steps and functionality of each app displayed in the mobile UI. 
+    * Summary of first meeting with Rodrigo Briones, from Family Service Toronto (FST): The team and Rodrigo introduces themselves. Rodrigo described the challenges seniors face when using technology. He wants a product that reduces number of steps needed to use an a mobile application (such as not needing to click on multiple buttons to join a zoom session). He also wants to the product to address general challenges seniors have when using technology. We then talked about communicating through email. The outcome of the meeting: The team agreed to come up with ideas and mock-ups.
+    * Summary of the second meeting with Rodrigo Briones: Rodrigo will meet with a group of seniors to gather data on apps he wants use to simplify and include in our simple mobile UI. We presented our project mockups to Rodrigo, who liked our ideas of 1) Creating a simpler mobile screen UI with only the agreed most important/most-used apps displayed 2)The creation of a simplified interface with reduced steps and functionality of each app displayed in the mobile UI. The outcome: Rodrigo sent us a list of most requested mobile applications to be included the day after the meeting.
 * Meeting minutes to all our group meetings (including both sessions with Project Partner and sessions within team members only) can be found here: <https://docs.google.com/document/d/1qTB5BxwvksWi4nVMG1icAFfm5Gksd37m92mA0ErPzJA/edit?fbclid=IwAR24smdFHlDZAO9mQkIMqF68BwrtHEBkzq4ookYeBCVQn08uXYOx9G3Axyk>
 
 ### Q8 What artifacts will you use to self-organize?
@@ -234,7 +233,7 @@ List/describe the artifacts you will produce in order to organize your team.
 
     * Task document: A shared google doc, to keep up with who does what. Every team member's name is present on the "Task Document" and their to-dos/tasks are listed under their name. Tasks that should be prioritized are marked with an asterisk. Tasks of utmost importance and priority will be marked with multiple asterisks.
 
-* Further explanation on how forementioned artifacts are used: 
+* Further explanation on how aforementioned artifacts are used: 
 
     * Tasks are assigned to team members based on a team member's agenda (what they want to do) and experience. Discussions on who does what occurs during the work allocation/reallocation period in weekly meetings as well as ad hoc meetings. All discussions are recorded in the meeting minutes. Tasks are recorded on the  Task Document as they are assigned. 
 
