@@ -13,13 +13,7 @@ code {
 }
 
 .grid-container {
-  display: grid;
-  grid-template-areas: 
-    "header"
-    "main";
-  grid-template-rows: 5rem 1fr 5rem;
-  grid-template-columns: 1fr;
-  height: 100%;
+  height: 100vh;
 }
 
 a:hover{
@@ -48,13 +42,13 @@ main {
 }
 
 .button {
-  padding: 1rem;
   border: .1rem #c0c0c0 solid;
   background-color: #f0f0f0;
   display: inline-block;
-  width: 50%;
-  height: 40vh;
   cursor: pointer;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
 }
 
 .button:hover {
@@ -66,6 +60,36 @@ main {
 }
 
 .button img {
-  max-width: 45vw;
-  max-height: 30vh;
+  width: 75%;
+  height: 75%; 
+  object-fit: contain;
+}
+
+/* small devices */
+@media (max-width: 614px) {
+    .row > div {
+      height: 10vh !important;
+      padding: 10px !important;
+    }
+
+    .row {
+      padding-top: 30px;
+    }
+}
+
+.row > div {
+  padding: 5vh;
+  height: 30vh;
+}
+
+header {
+  height: 10vh;
+}
+
+.container-fluid {
+  height: 90vh;
+}
+
+.row {
+  height: 100%
 }
