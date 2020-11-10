@@ -10,29 +10,49 @@ export default class Main extends Component {
     	return (
     		<div className="grid-container">
 		      <header>
-			  	<a href="/">Family Services Toronto Application</a>
+			  	Family Services Toronto Application
 		      </header>
-			  <main>
-				<div className="content">
-					<button className="button" 
-						onClick={() => this.route_Google()} 
-						type="submit"> 
-						<img src={"images/google.png"} alt="google"></img> 
-					</button>
-					<button className="button"
-						type="submit"> 
-						<img src={"images/facebook.png"} alt="facebook"></img> 
-					</button>
-					<button className="button"
-						type="submit">
-						<img src={"images/youtube.png"} alt="youtube"></img> 
-					</button>
-					<button className="button"
-						type="submit">
-						<img src={"images/email.png"} alt="email"></img> 
-					</button>
-				</div>
-			  </main>
+		      <div className="container-fluid">
+		      	<div className="row">
+		      		<div className="col-xs-12 col-md-6">
+		      			<button className="button" 
+							onClick={() => this.route_Google()} 
+							type="submit"> 
+							<img src={"images/google.png"} alt="google"></img> 
+						</button>
+		      		</div>
+		      		<div className="col-xs-12 col-md-6">
+		      			<button className="button"
+							type="submit"> 
+							<img src={"images/facebook.png"} alt="facebook"></img> 
+						</button>
+		      		</div>
+		      		<div className="col-xs-12 col-md-6">
+		      			<button className="button"
+							type="submit">
+							<img src={"images/youtube.png"} alt="youtube"></img> 
+						</button>
+		      		</div>
+		      		<div className="col-xs-12 col-md-6">
+		      			<button className="button"
+							type="submit">
+							<img src={"images/email.png"} alt="email"></img> 
+						</button>
+		      		</div>
+		      		<div className="col-xs-12 col-md-6">
+		      			<button className="button"
+							type="submit">
+							<img src={"images/zoom.png"} alt="email"></img> 
+						</button>
+		      		</div>
+		      		<div className="col-xs-12 col-md-6">
+		      			<button className="button"
+							type="submit">
+							<img src={"images/whatsapp.png"} alt="email"></img> 
+						</button>
+		      		</div>
+		      	</div>
+		      </div>
 		    </div>
     	);
   	}
