@@ -5,6 +5,13 @@ export default class Main extends Component {
 	route_Google = () => {
 		window.open("/Google", "_self");
 	}
+
+	route_Facebook = () => {
+		const win = window.open("https://www.facebook.com", '_blank');
+  		if (win != null) {
+    		win.focus();
+  		}
+	}
   
 	render() {
     	return (
@@ -22,7 +29,8 @@ export default class Main extends Component {
 						</button>
 		      		</div>
 		      		<div className="col-xs-12 col-md-6">
-		      			<button className="button"
+						  <button className="button"
+						  	onClick={() => this.route_Facebook()} 
 							type="submit"> 
 							<img src={"images/facebook.png"} alt="facebook"></img> 
 						</button>
