@@ -4,7 +4,7 @@ jobs:
     docker:
       - image: node:11.10.1
 
-    working_directory: ~/repo
+    working_directory: ~/deliverable-2/app
 
     steps:
       - checkout

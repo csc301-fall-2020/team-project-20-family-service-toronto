@@ -50,13 +50,13 @@ export default class Main extends Component {
 		      		<div className="col-xs-12 col-md-6">
 		      			<button className="button"
 							type="submit">
-							<img src={"images/zoom.png"} alt="email"></img> 
+							<img src={"images/zoom.png"} alt="zoom"></img> 
 						</button>
 		      		</div>
 		      		<div className="col-xs-12 col-md-6">
 		      			<button className="button"
 							type="submit">
-							<img src={"images/whatsapp.png"} alt="email"></img> 
+							<img src={"images/whatsapp.png"} alt="whatsapp"></img> 
 						</button>
 		      		</div>
 		      	</div>
