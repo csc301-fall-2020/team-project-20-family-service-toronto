@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 // added from router changes
 import { Router, Route } from 'react-router';
-import { Switch, Redirect } from 'react-router-dom';
+import { Switch } from 'react-router-dom';
 import { createBrowserHistory } from "history";
 
 // components
