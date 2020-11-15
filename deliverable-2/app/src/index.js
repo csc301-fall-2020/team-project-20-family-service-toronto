@@ -11,6 +11,8 @@ import { createBrowserHistory } from "history";
 
 // components
 import Google from './components/Google/Google.js';
+import Facebook from './components/Facebook/Facebook.js'
+
 
 const history = createBrowserHistory();
 
@@ -19,6 +21,7 @@ ReactDOM.render(
 		<Switch>
 			<Route exact path="/" component={App} />
 			<Route exact path="/Google" component={Google} />
+			<Route exact path="/Facebook" component={Facebook} />
 		</Switch>
 	</Router>
   ,

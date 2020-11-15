@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: node:11.10.1
+
+    working_directory: ~/deliverable-2/app
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+#       - restore_cache:
+#           keys:
+#             - v1-dependencies-{{ checksum "package.json" }}
+#             # fallback to using the latest cache if no exact match is found
+#             - v1-dependencies-
+
+      - run: cd deliverable-2/app && npm install
+      - run: cd deliverable-2/app && npm test
+      - run: cd deliverable-2/app && npm build
+
+#       - save_cache:
+#           paths:
+#             - node_modules
+#           key: v1-dependencies-{{ checksum "package.json" }}
+
+      # - run: yarn netlify:deploy
