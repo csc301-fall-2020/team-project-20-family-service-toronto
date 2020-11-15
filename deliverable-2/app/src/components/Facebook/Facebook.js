@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Iframe from 'react-iframe';
 import './Facebook.css';
 
-export default class Google extends Component {
+export default class Facebook extends Component {
   
 	to_main = () => {
 		window.open("/", "_self");
