@@ -12,6 +12,8 @@ export default class Main extends Component {
     		win.focus();
   		}
 	}
+    
+    route_WhatsApp = () => window.open("/WhatsApp", "_self");
   
 	render() {
     	return (
@@ -54,10 +56,11 @@ export default class Main extends Component {
 						</button>
 		      		</div>
 		      		<div className="col-xs-12 col-md-6">
-		      			<button className="button"
-							type="submit">
-							<img src={"images/whatsapp.png"} alt="whatsapp"></img> 
-						</button>
+                        <button className="button"
+                            onClick={this.route_WhatsApp}
+                            type="submit">
+                            <img src={"images/whatsapp.png"} alt="whatsapp"></img> 
+                        </button>
 		      		</div>
 		      	</div>
 		      </div>

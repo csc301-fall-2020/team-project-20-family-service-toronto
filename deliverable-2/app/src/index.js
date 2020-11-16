@@ -6,13 +6,13 @@ import reportWebVitals from './reportWebVitals';
 
 // added from router changes
 import { Router, Route } from 'react-router';
-import { Switch, Redirect } from 'react-router-dom';
+import { Switch } from 'react-router-dom';
 import { createBrowserHistory } from "history";
 
 // components
 import Google from './components/Google/Google.js';
 import Facebook from './components/Facebook/Facebook.js'
-
+import WhatsApp from './components/WhatsApp/WhatsApp.js';
 
 const history = createBrowserHistory();
 
@@ -22,6 +22,7 @@ ReactDOM.render(
 			<Route exact path="/" component={App} />
 			<Route exact path="/Google" component={Google} />
 			<Route exact path="/Facebook" component={Facebook} />
+            <Route exact path="/WhatsApp" component={WhatsApp} />
 		</Switch>
 	</Router>
   ,
