@@ -1,4 +1,4 @@
-# YOUR PRODUCT/TEAM NAME
+# Senior Simple Screen Development Team
 
 > _Note:_ This document is intended to be relatively short. Be concise and precise. Assume the reader has no prior knowledge of your application and is non-technical. 
 
