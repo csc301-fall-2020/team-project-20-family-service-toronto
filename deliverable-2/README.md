@@ -37,6 +37,17 @@ Describe your Git / GitHub workflow. Essentially, we want to understand how your
  Keep this section as brief as possible. You may read this [Github article](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for a start.
 
  * What type of license will you apply to your codebase?
+
+ Senior Simple Screen is licensed under [The MIT License](LICENSE).
+
  * What affect does it have on the development and use of your codebase?
+
+ This license will allow others outside of our project group to freely look at our codebase and reuse the code for their own
+ purpose as long as they include the original copy of the MIT License in their distribution. This directly affects us because now we can have external people contribute to the project if they so desire. In specific though, this does not directly affect our development. 
+
  * Why did you or your partner make this choice?
 
+ We made this choice in the hope that the community and possible future csc301 groups can expand on our project and make it
+ better than it already is. Since we are not exploiting this app for profit but instead building out a platform to help
+ seniors all around the world, we want to continuously be able to improve it with the help of the community and for that
+ we decided the MIT license is the best option. 
