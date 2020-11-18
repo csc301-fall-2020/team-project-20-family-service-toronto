@@ -11,7 +11,7 @@ export default class Gmail extends Component {
   	render() {
     	return (
       		<div id="container">
-        		<Iframe id="gmail-iframe" src="https://www.google.com/webhp?igu=1"/>
+        		<Iframe id="gmail-iframe" src="https://www.gmail.com"/>
         		<div>
         			<button id="return-button" onClick={() => this.to_main()} type="submit"> Return </button>
         		</div>
