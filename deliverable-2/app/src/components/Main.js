@@ -22,7 +22,7 @@ export default class Main extends Component {
 			<div className="grid-container">
 				<header>
 					Family Services Toronto Application
-		      </header>
+		      	</header>
 				<div className="container-fluid">
 					<div className="row">
 						<div className="col-xs-12 col-md-6">
