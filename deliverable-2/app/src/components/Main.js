@@ -12,6 +12,10 @@ export default class Main extends Component {
     		win.focus();
   		}
 	}
+
+	route_Email = () => {
+		window.open("/Email", "_self");
+	}
     
     route_WhatsApp = () => window.open("/WhatsApp", "_self");
   
@@ -44,7 +48,8 @@ export default class Main extends Component {
 						</button>
 		      		</div>
 		      		<div className="col-xs-12 col-md-6">
-		      			<button className="button"
+						<button className="button"
+							onClick={() => this.route_Email()} 
 							type="submit">
 							<img src={"images/email.png"} alt="email"></img> 
 						</button>
