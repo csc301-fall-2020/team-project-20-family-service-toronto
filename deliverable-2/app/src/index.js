@@ -13,7 +13,7 @@ import { createBrowserHistory } from "history";
 import Google from './components/Google/Google.js';
 import Facebook from './components/Facebook/Facebook.js'
 import WhatsApp from './components/WhatsApp/WhatsApp.js';
-
+import Email from './components/Email/Email.js'
 const history = createBrowserHistory();
 
 ReactDOM.render(
@@ -22,7 +22,9 @@ ReactDOM.render(
 			<Route exact path="/" component={App} />
 			<Route exact path="/Google" component={Google} />
 			<Route exact path="/Facebook" component={Facebook} />
-            <Route exact path="/WhatsApp" component={WhatsApp} />
+			<Route exact path="/WhatsApp" component={WhatsApp} />
+			<Route exact path="/Email" component={Email} />
+
 		</Switch>
 	</Router>
   ,
