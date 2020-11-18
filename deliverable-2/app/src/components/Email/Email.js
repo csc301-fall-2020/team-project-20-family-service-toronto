@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class Main extends Component {
+export default class Email extends Component {
 
 	route_Gmail = () => {
 		const win = window.open("https://www.gmail.com", '_blank');
