@@ -16,6 +16,13 @@ export default class Email extends Component {
   		}
 	}
   
+	route_Yahoo_Mail = () => {
+		const win = window.open("https://mail.yahoo.com/", '_blank');
+  		if (win != null) {
+    		win.focus();
+  		}
+	}
+
 	render() {
     	return (
     		<div className="grid-container">
@@ -36,6 +43,13 @@ export default class Email extends Component {
 						  	onClick={() => this.route_Outlook ()} 
 							type="submit"> 
 							<img src={"../../../images/Microsoft-Outlook.png"} alt="Outlook"></img> 
+						</button>
+					</div>
+					<div className="col-xs-12 col-md-6">
+						  <button className="button"
+						  	onClick={() => this.route_Yahoo_Mail ()} 
+							type="submit"> 
+							<img src={"../../../images/Yahoo-Mail.png"} alt="Yahoo Mail"></img> 
 						</button>
 		      		</div>
 		      	</div>
