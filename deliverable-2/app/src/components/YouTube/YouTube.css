@@ -1,18 +1,77 @@
-#container {
-    height: 100vh;
+.search {
+    font-size: 2em;
+    padding: 1vh;
+    text-align: center;
 }
 
-#return-button {
-    width: 50vw;
-    height: 8vh;
-    margin-top: 5px;
-    margin-left: 10px;
-    font-size: 150%;
+input#searchbar {
+    width: 50%;
+    text-align: center;
+}
+
+.list {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e3e3e3;
+    width: 20%;
+    margin: 1vh;
+    margin-left: 0vh;
+    float: right;
+}
+
+.video {
+    width: 76%;
+    height: 75vh;
+    margin: 1vh;
     display: inline-block;
-    background: white;
-    color: #444;
-    border-radius: 5px;
-    border: thin solid #888;
+}
+
+.video-frame {
+    width: 100%;
+    height: 100%;
+}
+
+.description {
+    padding: 1vh;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e3e3e3;
+}
+
+.list-card {
+    border-bottom: 1px solid #e3e3e3;
+    padding: 1vh;
+}
+
+.list-img {
+    padding: 0.1vh;
+    width: 100%;
+    display: inline;
+}
+
+.list-title {
+    display: inline-block;
+    padding-top: 0.5vh;
+}
+
+.youtube {
+    height: 100%;
+    padding: 2vh;
+}
+
+.videos {
+    position: relative;
+}
+
+.return {
+    display: inline;
+}
+
+.return-button {
+    width: 100%;
+    height: 8vh;
+    font-size: 2em;
+    border-radius: 1vh;
+    border: thin solid #e3e3e3;
     box-shadow: 1px 1px 1px grey;
-    white-space: nowrap;
 }
