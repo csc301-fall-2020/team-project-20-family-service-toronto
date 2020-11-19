@@ -18,8 +18,8 @@ jobs:
 
       - run: cd deliverable-2/app && npm install
       - run: cd deliverable-2/app && npm test
-      - run: cd deliverable-2/app && npm build
-
+      - run: cd deliverable-2/app && npm run-script build
+      - run: cd deliverable-2/app && npm run-script netlify:deploy
 #       - save_cache:
 #           paths:
 #             - node_modules
