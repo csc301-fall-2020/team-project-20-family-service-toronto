@@ -13,6 +13,10 @@ export default class Main extends Component {
 		}
 	}
 
+	route_Email = () => {
+		window.open("/Email", "_self");
+	}
+
 	route_WhatsApp = () => window.open("/WhatsApp", "_self");
 
 	route_YouTube = () => window.open("/YouTube", "_self");
@@ -48,8 +52,9 @@ export default class Main extends Component {
 						</div>
 						<div className="col-xs-12 col-md-6">
 							<button className="button"
+								onClick={() => this.route_Email()} 
 								type="submit">
-								<img src={"images/email.png"} alt="email"></img>
+								<img src={"images/email.png"} alt="email"></img> 
 							</button>
 						</div>
 						<div className="col-xs-12 col-md-6">
