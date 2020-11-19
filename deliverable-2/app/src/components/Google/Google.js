@@ -11,9 +11,9 @@ export default class Google extends Component {
   	render() {
     	return (
       		<div id="container">
-        		<Iframe id="google-iframe" src="https://www.google.com/webhp?igu=1"/>
+        		<Iframe id="google-iframe" data-testid="google-iframe" src="https://www.google.com/webhp?igu=1"/>
         		<div>
-        			<button id="return-button" onClick={() => this.to_main()} type="submit"> Return </button>
+        			<button id="return-button"  data-testid="return-button" onClick={() => this.to_main()} type="submit">Return</button>
         		</div>
       		</div>
     	);

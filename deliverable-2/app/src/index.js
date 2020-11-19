@@ -14,6 +14,8 @@ import Google from './components/Google/Google.js';
 import Facebook from './components/Facebook/Facebook.js'
 import WhatsApp from './components/WhatsApp/WhatsApp.js';
 import Email from './components/Email/Email.js'
+import YouTube from './components/YouTube/YouTube.js';
+
 const history = createBrowserHistory();
 
 ReactDOM.render(
@@ -24,7 +26,7 @@ ReactDOM.render(
 			<Route exact path="/Facebook" component={Facebook} />
 			<Route exact path="/WhatsApp" component={WhatsApp} />
 			<Route exact path="/Email" component={Email} />
-
+			<Route exact path="/YouTube" component={YouTube} />
 		</Switch>
 	</Router>
   ,
