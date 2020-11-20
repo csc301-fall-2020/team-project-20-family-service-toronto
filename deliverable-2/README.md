@@ -61,11 +61,62 @@
  * Provide clear steps for using each feature described above
  * This section is critical to testing your application and must be done carefully and thoughtfully
  
- ## Development requirements
+## Instructions (Answer)
+ Our Application is continuously deployed at the url:
+
+ https://happy-goldwasser-7387af.netlify.app/
+
+ This application is designed to be simple to use and clicking any of the 6 buttons and will take you to the respective displayed application or a simplified version
+ of the application built into our application. For applications requiring an account (Facebook, Whatsapp, Email, Zoom), the user would need to login in or download
+ the application in accordance that application's policy.
+
+ *Google:*
+ - Type into the search bar what you would like to search
+ - Hit Enter on your keyboard or the 'Google Search'
+ - Press the return button at the bottom of the screen to return to the main application
+
+ *Whatsapp:*
+ - This will take the user to a page to install Whatsapp on their device
+
+ *Facebook:*
+ - This will open the facebook page
+
+ *Zoom:*
+ - This will take the user to a page to install Zoom on their device
+
+ *Email:*
+ - This will open a page to an additional 3 buttons with the 3 email services provided: Gmail, Outlook, Yahoo! Mail
+ - Each of these buttons will open the respective page.
+
+ *Youtube:*
+ - This is a simplified Youtube page. Type into the search bar what you would like to search
+ - Hit Enter on your keyboard or the 'Search' button
+ - There will be a video displayed according to the search and additional YouTube recommendations
+ - Press the return button at the bottom of the screen to return to the main application
+
+ Additionally, on a computer, a view of this application on a mobile device can be seen by right clicking anywhere on the page and selecting 'Inspect'. Click to 'Toggle device
+ toolbar' (Ctrl + Shift + M) and selecting the type of device to view the page.
+
+
+## Development requirements
  * If a developer were to set this up on their machine or a remote server, what are the technical requirements (e.g. OS, libraries, etc.)?
  * Briefly describe instructions for setting up and running the application (think a true README).
+
+
+## Development requirements (Answer)
+ This application was developed using React/Node. In order to set up this application, install NodeJS from nodejs.org
+  1. In the console navigate into the \team-project-20-family-service-toronto\deliverable-2 folder
+  2. In the console, install node dependenacies, using `npm install`
+  3. (if not already installed) In the console, install YTSearch, by using `npm install YTSearch`
+  4. To run the server locally, use `npm start`
+
+ YTSearch library from Node was used to develop the simplified YouTube functionality
+
+ Notable tools to use:
+  - Git/Github for Version Control
+  - Visual Studio Code as code editor, built-in console, version control 
  
- ## Deployment and Github Workflow
+## Deployment and Github Workflow
 
 Describe your Git / GitHub workflow. Essentially, we want to understand how your team members shares a codebase, avoid conflicts and deploys the application.
 
