@@ -13,7 +13,7 @@ export default class WhatsApp extends Component {
         };
     }
 
-    createWhatsAppLink = (phoneNum) => {
+    createWhatsAppLink(phoneNum) {
         const platform = navigator.platform;
         let link = `https://web.whatsapp.com`  // web link
         if (platform.indexOf("Android") > -1) {
