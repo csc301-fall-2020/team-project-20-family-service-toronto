@@ -17,8 +17,16 @@
  * This section will be used to assess the value of the features built
 
 * Key Features:
-* Main page: A compilation of links to the most frequently used apps
-* Youtube page: 
+* Main page: 
+- A compilation of links to the most frequently used apps, keeps seniors top applications all in one place in an organized manner
+- Logos for each app are displayed so that seniors can remember that these were the apps that they had on their phones previously
+* Whatsapp page: 
+- 
+* Google page:
+* Facebook page: 
+* Zoom page:
+* Gmail page:
+* Youtube page:
 * Back button in most apps
 
 
