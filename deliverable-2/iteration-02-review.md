@@ -52,7 +52,7 @@ Organizationally, our team has been performing fairly well, the very significant
 ### Q4. How was your product demo
 
  1. How did you prepare your demo?
-    * Firstly we determined what constituted an MVP and what was achievable by our team by the due date. Following that, we distributed our work and created some of the easier aspects early to present to our partner. The easier to integrate applications were finished early.  
+    * Firstly we determined what constituted an MVP and what was achievable by our team by the due date. Following that, we distributed our work and created some of the easier aspects early to present to our partner.  
  2. What did you manage to demo to your partner?
     * We demoed the general structure of the web version of the application. This included a general sense of the UI and user navigation. Additionally of the apps we planned on creating links to, we were able to demo a simple version of the Google embedded app and facebook app which directs to the official facebook site.
  3. Did your partner accept the features?
