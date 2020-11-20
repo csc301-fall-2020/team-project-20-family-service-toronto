@@ -21,6 +21,13 @@ export default class Main extends Component {
 
 	route_YouTube = () => window.open("/YouTube", "_self");
 
+	route_Zoom = () => {
+		const win = window.open("https://www.zoom.us/download", '_blank');
+		if (win != null) {
+			win.focus();
+		}
+	}
+	
 	render() {
 		return (
 			<div className="grid-container">
@@ -59,6 +66,7 @@ export default class Main extends Component {
 						</div>
 						<div className="col-xs-12 col-md-6">
 							<button className="button"
+								onClick={() => this.route_Zoom()}
 								type="submit">
 								<img src={"images/zoom.png"} alt="zoom"></img>
 							</button>
