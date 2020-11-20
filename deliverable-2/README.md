@@ -6,11 +6,22 @@
  * Provide a high-level description of your application and it's value from an end-user's perspective
  * What is the problem you're trying to solve?
  * Is there any context required to understand **why** the application solves this problem?
+ 
+ * Our application is like a hub for accessing the most important apps that seniors use on a day-to-day basis. When you open our application, you will see 6 links to commonly used apps (Facebook, Whatsapp, Gmail, Google, Zoom, Youtube). Clicking on any of these links will bring the user directly to the application (or a simplified version of the application, which will be discussed later) which allows the user to have all of their most-used apps in one place which eliminates any struggle with finding those apps in the first place. Likewise, some of these applications (such as Youtube) are simplified versions of the actual applications that seniors might have on their phones. These simplified versions aim to make seniors less overwhelmed when using these specific apps because they have less options in what to do while inside the app (they only have access to essential features!). 
+ * Our app attempts to solve the common troubles seniors have with accessing important apps on their phones. We have had several meetings with Rodrigo in which he outlines the struggles that seniors face on a day-to-day basis when trying to find, and open apps such as Zoom and have a video call with a friend. Seniors are much more easily overwhelmed by technology and things going wrong with it (i.e. Zoom suddenly asking them to re-enter their password or enter the meeting ID) as opposed to the younger generation, given that many seniors did not grow up with any technology at all. Our app aims to give seniors a less stressful encounter with technology by organizing all of their most-used apps all into one application (that is easy to find on their phone) and simplifying some of the user interfaces / features for certain apps. 
+ * There is no context required to understand why the application solves this problem. As mentioned before, the application is like a hub for accessing the most useful apps in a single place in an organized manner, and also includes some simplifications of the commonly used apps. The way in which the app solves the problem mentioned above is self-explanatory.
 
 ## Key Features
  * Described the key features in the application that the user can access
  * Provide a breakdown or detail for each feature that is most appropriate for your application
  * This section will be used to assess the value of the features built
+
+* Key Features:
+* Main page: A compilation of links to the most frequently used apps
+* Youtube page: 
+* Back button in most apps
+
+
 
 ## Instructions
  * Clear instructions for how to use the application from the end-user's perspective
