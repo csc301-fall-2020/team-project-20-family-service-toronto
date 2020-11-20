@@ -17,7 +17,8 @@
     "react-test-renderer": "^17.0.1",
     "typescript": "^4.0.5",
     "web-vitals": "^0.2.4",
-    "youtube-api-search": "0.0.5"
+    "youtube-api-search": "0.0.5",
+    "ytsearch": "^1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
