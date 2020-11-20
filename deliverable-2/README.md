@@ -68,7 +68,7 @@
 
  This application is designed to be simple to use and clicking any of the 6 buttons and will take you to the respective displayed application or a simplified version
  of the application built into our application. For applications requiring an account (Facebook, Whatsapp, Email, Zoom), the user would need to login in or download
- the application in accordance that application's policy.
+ the application in accordance to that application's policy.
 
  *Google:*
  - Type into the search bar what you would like to search
@@ -79,7 +79,7 @@
  - This will take the user to a page to install Whatsapp on their device
 
  *Facebook:*
- - This will open the facebook page
+ - This will open the Facebook page
 
  *Zoom:*
  - This will take the user to a page to install Zoom on their device
