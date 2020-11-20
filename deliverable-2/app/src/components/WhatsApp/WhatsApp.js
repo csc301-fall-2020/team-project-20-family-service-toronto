@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Redirect } from 'react-router-dom';
 import Iframe from 'react-iframe';
 import './WhatsApp.css';
 
@@ -8,22 +9,25 @@ export default class WhatsApp extends Component {
         super(props);
         this.state = {
             osDeepLink: undefined,
-            phoneNum: undefined,
+            phoneNum: ""
         };
     }
 
-    componentDidMount() {
+    createWhatsAppLink(phoneNum) {
         const platform = navigator.platform;
-        let link = `https://web.whatsapp.com`
+        let link = `https://web.whatsapp.com`  // web link
         if (platform.indexOf("Android") > -1) {
-            link = `intent://send?phone=${this.state.phoneNum}#Intent;package=com.whatsapp;scheme=whatsapp;end`
+            link = `intent://send?${phoneNum}#Intent;package=com.whatsapp;scheme=whatsapp;end`
         } else if (platform.indexOf("iOS") > -1) {
-            link = `whatsapp://send?phone=${this.state.phoneNum}`
+            link = `whatsapp://send?${phoneNum}`
         }
-        this.setState({ osDeepLink: link });
+        return link;
     }
 
-	toMain = () => window.open("/", "_self");
+    componentDidMount() {
+        const link = this.createWhatsAppLink(this.state.phoneNum);
+        this.setState({ osDeepLink: link });
+    }
 
   	render() {
         if (!this.state.osDeepLink) {
@@ -36,7 +40,7 @@ export default class WhatsApp extends Component {
                 </div>
             );
         }
-        window.open(this.state.osDeepLink, "_blank");
-    	this.toMain();
+        window.location.href = this.state.osDeepLink;
+        return (<Redirect to="/"/>)
   	}
 }
