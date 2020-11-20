@@ -32,6 +32,9 @@ List **process-related** (i.e. team organization and how you work) decisions tha
 * Explain why (i.e. give a supporting argument) you consider a decision to be unsuccessful
 * Feel free to refer/link to process artifact(s).
 
+1. In our roles and responsibilities listed out in Deliverable 1, we divided by parts of the stack, such as frontend, backend, fullstack, and quality assurance. However, the tasks ended up being allocated by area of the application, such as building out the page for Google, YouTube, WhatsApp, Facebook, Email, etc. Since during the Deliverable 1 planning stages, we didn't have the selection of apps to include in our project, we did not think to divide the tasks as such - but regardless of the method of allocating tasks, our work came together for a functional proof of concept application.
+2. Initially much of the communication and information sharing was done through our Facebook Messenger group chat, which if not caught up with immediately, could result in some links or updates lost further up in the chat. Also for recurring meetings, a meeting reminder message would be sent in the chat with the Zoom link each time. Around halfway through working on this deliverable, we decided to compile important information in the central Google Doc, which helped for referencing as well as to summarize key outcomes of text or meeting discussions.
+
 ### Q3. Planned changes
 
 List any **process-related** (i.e. team organization and how you work) changes you are planning to make (if there are any)
