@@ -7,6 +7,7 @@
  * What is the problem you're trying to solve?
  * Is there any context required to understand **why** the application solves this problem?
  
+## Description (Answer)
  * Our application is like a hub for accessing the most important apps that seniors use on a day-to-day basis. When you open our application, you will see 6 links to commonly used apps (Facebook, Whatsapp, Gmail, Google, Zoom, Youtube). Clicking on any of these links will bring the user directly to the application (or a simplified version of the application, which will be discussed later) which allows the user to have all of their most-used apps in one place which eliminates any struggle with finding those apps in the first place. Likewise, some of these applications (such as Youtube) are simplified versions of the actual applications that seniors might have on their phones. These simplified versions aim to make seniors less overwhelmed when using these specific apps because they have less options in what to do while inside the app (they only have access to essential features!). 
  * Our app attempts to solve the common troubles seniors have with accessing important apps on their phones. We have had several meetings with Rodrigo in which he outlines the struggles that seniors face on a day-to-day basis when trying to find, and open apps such as Zoom and have a video call with a friend. Seniors are much more easily overwhelmed by technology and things going wrong with it (i.e. Zoom suddenly asking them to re-enter their password or enter the meeting ID) as opposed to the younger generation, given that many seniors did not grow up with any technology at all. Our app aims to give seniors a less stressful encounter with technology by organizing all of their most-used apps all into one application (that is easy to find on their phone) and simplifying some of the user interfaces / features for certain apps. 
  * There is no context required to understand why the application solves this problem. As mentioned before, the application is like a hub for accessing the most useful apps in a single place in an organized manner, and also includes some simplifications of the commonly used apps. The way in which the app solves the problem mentioned above is self-explanatory.
@@ -16,18 +17,36 @@
  * Provide a breakdown or detail for each feature that is most appropriate for your application
  * This section will be used to assess the value of the features built
 
-* Key Features:
-* Main page: 
-- A compilation of links to the most frequently used apps, keeps seniors top applications all in one place in an organized manner
+## Key Features (Answer)
+*Main page:*
+- A compilation of links to the most frequently used apps, which keeps seniors' top applications all in one place in an organized manner
 - Logos for each app are displayed so that seniors can remember that these were the apps that they had on their phones previously
-* Whatsapp page: 
-- 
-* Google page:
-* Facebook page: 
-* Zoom page:
-* Gmail page:
-* Youtube page:
-* Back button in most apps
+
+*Whatsapp page:*
+- One of the most used applications by seniors (as Rodrigo mentioned)
+- Seniors have access to messaging and phone calls through this application
+
+*Google page:*
+- Seniors have access to reading materials or to type in the links of other applications through Google
+- Incredibly useful to have Google as part of our main application because it allows the seniors to access other ressources that might not be available through our main application
+
+*Facebook page:*
+- Seniors have access to speaking with friends and family as well as sharing photos
+
+*Zoom page:*
+- Seniors have access to video calls for meetings or virtual time with friends/family
+
+*Email pages:*
+- Access to 3 different types of emails (Gmail, Yahoo, Outlook) so that seniors have all emails in one place and so that the main page is not overwhelmed with all the emails
+
+*Youtube page:*
+- Simplified version of youtube
+- Allows senior to easily search youtube videos without being distracted by all the other youtube features (like account settings, etc.)
+- Allows senior to see video recommendations based on their search
+
+*Back button:*
+- Allows seniors to easily navigate back to the main page and access other applications
+- Reminds them that they are in our application rather than in an app on their phone
 
 
 
