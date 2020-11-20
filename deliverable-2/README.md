@@ -8,8 +8,8 @@
  * Is there any context required to understand **why** the application solves this problem?
  
 ## Description (Answer)
- * Our application is like a hub for accessing the most important apps that seniors use on a day-to-day basis. When you open our application, you will see 5 links to commonly used apps (Facebook, Whatsapp, Google, Zoom, Youtube) and button to direct the user to links to 3 email options (Yahoo, Gmail, Outlook). Clicking on any of these 8 links will bring the user directly to the online application (or a simplified version of the application, which will be discussed later). All in all, our application allows a user to have all of his/her most-used apps in one place, eliminating any struggle with finding those applications in the first place. Likewise, some of these applications (such as Youtube) are simplified versions of the actual applications. These simplified versions aim to make users of our application less overwhelmed when accessing and utilizing specific applications nested in our app, because they have less options for what they can do in those applications (they only have access to essential features!). 
- * Our app attempts to solve the common troubles seniors have with accessing important apps on their phones. We have had several meetings with Rodrigo in which he outlines the struggles that seniors face on a day-to-day basis when trying to find, open and use apps on their phones. Seniors are much more easily overwhelmed by technology and the things that may go wrong with it (i.e. Zoom suddenly asking a senior to re-enter their password or enter the meeting ID) as well as all the instructions that come with navigating a certain application, given that many seniors did not grow up with any technology like younger generaions did. Our app aims to give seniors a less stressful encounter with technology by organizing all of their most-used apps all into one application (that is easy to find on their phone) and simplifying some of the user interfaces / features for certain apps nested within our main application. 
+ * Our application is like a hub for accessing the most important apps that seniors use on a day-to-day basis. When you open our application, you will see 5 links to commonly used apps (Facebook, Whatsapp, Google, Zoom, Youtube) and a button to direct the user to links to 3 email options (Yahoo, Gmail, Outlook). Clicking on any of these 8 links will bring the user directly to the online application (or a simplified version of the application, which will be discussed later). All in all, our application allows a user to have all of his/her most-used apps in one place, eliminating any struggle with finding those applications in the first place. Likewise, some of these applications (such as Youtube) are simplified versions of the actual applications. These simplified versions aim to make users of our application less overwhelmed when accessing and utilizing specific applications nested in our app, because they have less options for what they can do in those applications (they only have access to essential features!). 
+ * Our app attempts to solve the common troubles seniors have with accessing important apps on their phones. We have had several meetings with Rodrigo in which he outlines the struggles that seniors face on a day-to-day basis when trying to find, open and use apps on their phones. Seniors are much more easily overwhelmed by technology and the things that may go wrong with it (i.e. Zoom suddenly asking a senior to re-enter their password or enter the meeting ID) as well as all the instructions that come with navigating a certain application, given that many seniors did not grow up with technology the way younger generaions did. Our app aims to give seniors a less stressful encounter with technology by organizing all of their most-used apps into one application (that is easy to find on their phone) and simplifying some of the user interfaces / features for certain apps nested within our main application. 
  * There is no context required to understand why the application solves this problem. As mentioned before, the application is like a hub for accessing the most useful apps in a single place (in a very organized manner), and also includes some simplifications of most commonly used apps. 
 
 ## Key Features
@@ -33,7 +33,7 @@
 - Seniors have access to messaging and phone calls through this application
 
 *Facebook page:*
-- Seniors have access to speaking with friends and family
+- Seniors have access to speaking with friends and famil
 - Seniors can also look through photos of their friends and family, or share their own photos
 
 *Zoom page:*
@@ -42,8 +42,8 @@
 *Email section*
 - Access to 3 different types of emails (Gmail, Yahoo, Outlook) 
 - Seniors have all emails in one place
-- Especially useful is a senior has more than one email account 
-- Email has its own subsection so that the main page is not overwhelmed with all the different emails
+- Especially useful if a senior has more than one email account 
+- Email has its own subsection so that the main page is not overwhelmed with all of the different email options
 
 *Youtube page:*
 - Simplified version of youtube
