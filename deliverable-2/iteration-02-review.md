@@ -1,53 +1,51 @@
 # YOUR PRODUCT/TEAM NAME
 
- > _Note:_ This document is meant to be written during (or shortly after) your review meeting, which should happen fairly close to the due date.      
- >      
+ > _Note:_ This document is meant to be written during (or shortly after) your review meeting, which should happen fairly close to the due date.
  > _Suggestion:_ Have your review meeting a day or two before the due date. This way you will have some time to go over (and edit) this document, and all team members should have a chance to make their contribution.
-
 
 ## Iteration XX - Review & Retrospect
 
- * When: FILL IN THE DATE WHEN YOU ACTUALLY HAD YOUR REVIEW MEETING
- * Where: PHYSICAL LOCATION AND/OR ONLINE
+* When: FILL IN THE DATE WHEN YOU ACTUALLY HAD YOUR REVIEW MEETING
+* Where: PHYSICAL LOCATION AND/OR ONLINE
 
 ## Process - Reflection
 
-
-#### Q1. Decisions that turned out well
+### Q1. Decisions that turned out well
 
 List **process-related** (i.e. team organization and how you work) decisions that, in retrospect, turned out to be successful.
 
+* 2 - 4 decisions.
+* Ordered from most to least important.
+* Explain why (i.e. give a supporting argument) you consider a decision to be successful.
+* Feel free to refer/link to process artifact(s).
 
- * 2 - 4 decisions.
- * Ordered from most to least important.
- * Explain why (i.e. give a supporting argument) you consider a decision to be successful.
- * Feel free to refer/link to process artifact(s).
+1. Weekly team meetings on Wednesdays at 8pm. In addition to our weekly sponsor team meeting on Tuesdays at 12pm, these video calls are a helpful way to update each other on our progress and allocate tasks for the next week. In these meetings we were also able to collaboratively make decisions more openly than through text or email.
+2. Organizing meeting notes and important links through a Google Doc. At the top of our doc we have links to the recurring Zoom meetings, Github project and repo, and team availability on When2Meet, followed by notes from each of our meetings whether with the sponsor or just with the team. As sometimes not all members are able to attend meetings, this is a helpful way to quickly refer to and catch up on them. The links are also a central place to find them, as sometimes they can get lost in the group chat.
+3. Having at least one other teammate review your PR before merging it in, requiring feedback allows everyone to gain more context into the areas others may have worked on independently, and to offer suggestions for improvements or things they have missed. Having multiple eyes on new changes, as well as the CI/CD, better ensures that no unintended issues make it into our deployed application.
 
-#### Q2. Decisions that did not turn out as well as we hoped
+### Q2. Decisions that did not turn out as well as we hoped
 
 List **process-related** (i.e. team organization and how you work) decisions that, in retrospect, were not as successful as you thought they would be.
 
- * 2 - 4 decisions.
- * Ordered from most to least important.
- * Explain why (i.e. give a supporting argument) you consider a decision to be unsuccessful
- * Feel free to refer/link to process artifact(s).
+* 2 - 4 decisions.
+* Ordered from most to least important.
+* Explain why (i.e. give a supporting argument) you consider a decision to be unsuccessful
+* Feel free to refer/link to process artifact(s).
 
-
-#### Q3. Planned changes
+### Q3. Planned changes
 
 List any **process-related** (i.e. team organization and how you work) changes you are planning to make (if there are any)
 
- * Ordered from most to least important.
- * Explain why you are making a change.
-
+* Ordered from most to least important.
+* Explain why you are making a change.
 
 ## Product - Review
 
-#### Q4. How was your product demo?
- * How did you prepare your demo?
- * What did you manage to demo to your partner?
- * Did your partner accept the features?
- * Were there change requests?
- * What did you learn from the demo from either a process or product perspective?
- * *This section will be marked very leniently so keep it brief and just make sure the points are addressed*
+### Q4. How was your product demo?
 
+* How did you prepare your demo?
+* What did you manage to demo to your partner?
+* Did your partner accept the features?
+* Were there change requests?
+* What did you learn from the demo from either a process or product perspective?
+* *This section will be marked very leniently so keep it brief and just make sure the points are addressed*
