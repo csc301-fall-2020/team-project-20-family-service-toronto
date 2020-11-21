@@ -65,6 +65,10 @@
  Our Application is continuously deployed at the url:
 
  https://happy-goldwasser-7387af.netlify.app/
+ 
+For a deployed version to use for marking that doesn't update with our future code from deliverable 3, use this url: 
+
+https://5fb869ad4c0b4b68c13ffdf6--happy-goldwasser-7387af.netlify.app
 
  This application is designed to be simple to use and clicking any of the 6 buttons and will take you to the respective displayed application or a simplified version
  of the application built into our application. For applications requiring an account (Facebook, Whatsapp, Email, Zoom), the user would need to login in or download
