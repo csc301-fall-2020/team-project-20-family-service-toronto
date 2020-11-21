@@ -1,12 +1,9 @@
-# YOUR PRODUCT/TEAM NAME
+# Senior Simple Screen Development Team
 
- > _Note:_ This document is meant to be written during (or shortly after) your review meeting, which should happen fairly close to the due date.
- > _Suggestion:_ Have your review meeting a day or two before the due date. This way you will have some time to go over (and edit) this document, and all team members should have a chance to make their contribution.
+## Iteration 2 - Review & Retrospect
 
-## Iteration XX - Review & Retrospect
-
-* When: FILL IN THE DATE WHEN YOU ACTUALLY HAD YOUR REVIEW MEETING
-* Where: PHYSICAL LOCATION AND/OR ONLINE
+* When: November 10th, 2020
+* Where: Online - Zoom meeting
 
 ## Process - Reflection
 
@@ -39,16 +36,29 @@ List **process-related** (i.e. team organization and how you work) decisions tha
 
 List any **process-related** (i.e. team organization and how you work) changes you are planning to make (if there are any)
 
-* Ordered from most to least important.
-* Explain why you are making a change.
+ 1. [x] Reorganize roles from D1 to fit project:
+    * As Q2 discusses, we needed to redistribute roles to better fit the project; instead of different parts of the stack, we all work on different parts of the final product on the same stack.
+ 2. [ ] Investigate more robust messaging platforms:
+    * We currently use a combination of Facebook Messenger and a Google Drive to communicate, however we might benefit from a platform like Slack or Discord that allows for more control in separating threads/topics; e.g. our technical discussions are interspersed with logistical discussions which may be not ideal in some cases.
+ 3. [ ] Testing Standards:
+    * We are considering making some standardizations for how and how much we test our code so there is a sort of upper bound on our technical debt.
+ 4. [ ] Linters:
+    * Our code base would benefit from more consistent styling. This is very much non-essential though, since we all generally follow some standard practices.
+
+Organizationally, our team has been performing fairly well, the very significant changes that needed to be made, we made already. We are independent when it comes to implementation so there is little intervention required from other team members. Additionally we have been communicative when it comes to overall design so our structure is relatively consistent. Our weekly meetings have ensured we're all mostly on the same page when it comes to higher level design.
 
 ## Product - Review
 
-### Q4. How was your product demo?
+### Q4. How was your product demo
 
-* How did you prepare your demo?
-* What did you manage to demo to your partner?
-* Did your partner accept the features?
-* Were there change requests?
-* What did you learn from the demo from either a process or product perspective?
-* *This section will be marked very leniently so keep it brief and just make sure the points are addressed*
+ 1. How did you prepare your demo?
+    * Firstly we determined what constituted an MVP and what was achievable by our team by the due date. Following that, we distributed our work and created some of the easier aspects early to present to our partner.  
+ 2. What did you manage to demo to your partner?
+    * We demoed the general structure of the web version of the application. This included a general sense of the UI and user navigation. Additionally of the apps we planned on creating links to, we were able to demo a simple version of the Google embedded app and facebook app which directs to the official facebook site.
+ 3. Did your partner accept the features?
+    * Our partner was generally happy with our progress. He didn't have a very clear picture of what he wanted at the beginning and we set his expectations appropriately during our weekly meetings preceeding the demo.
+ 4. Were there change requests?
+    * The MVP was at the time still not entirely completed, so our partner wanted to see more progress made after the demo and a deeper level of integration between the apps we were aiming to simplify and our product. We were able to make significant progress on that goal after the demo. Most of the applications are relatively simple in their implementation for now, but there are a couple that are more sophisticated (e.g. the YouTube and Google applications) which are more embedded than just direct links to external website. As we continue to work, it seems several applications are infeasible to deeply integrate with so external links may be the extent of our capabilities, but in this case we will extend the application to feature information before linking away.
+ 5. What did you learn from the demo from either a process or product perspective?
+    * From a process perspective, our progress is accelerated closer to the due date, hence a large amount of progress was made after the demo. Much of the work was done within 2-3 days of the due date. In hindsight, it would have been better to demo closer to the due date but our meeting schedule made that a little complicated so we demoed early.
+    * From a product perspective, we weren't very certain of the exact expectations of our partner so the generally positive feedback from the demo gave us confidence that we were moving in the right direction.
