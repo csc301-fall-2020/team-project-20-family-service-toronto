@@ -1,4 +1,4 @@
-# YOUR PRODUCT/TEAM NAME
+# Senior Simple Screen Development Team
 
  > _Note:_ This document is meant to be written during (or shortly after) your review meeting, which should happen fairly close to the due date.
  > _Suggestion:_ Have your review meeting a day or two before the due date. This way you will have some time to go over (and edit) this document, and all team members should have a chance to make their contribution.
@@ -52,3 +52,5 @@ List any **process-related** (i.e. team organization and how you work) changes y
 * Were there change requests?
 * What did you learn from the demo from either a process or product perspective?
 * *This section will be marked very leniently so keep it brief and just make sure the points are addressed*
+
+We did a demo with our project partner Rodrigo on November 9th, 2020. We prepared for the demo by having the project open and ready to run when our meeting began. We ran the server locally and opened up google chrome to view the app. We used the chrome browser development tools to display our app in mobile view. Doing so allows Rodrigo to visualize how the app looks when we eventually convert our web app into a react native mobile app. In our demo, we showed Rodrigo the application home screen as well as one of the working components, namely Google. We have not yet completed implementation of the other features on November 9th, which was why we only showed the google component in our demo. We explained to Rodrigo that the other components would work similarly, which is when the button is clicked, the user would be directed to the respective component pages. Rodrigo was very happy with our progress and accepted the features. There were no change requests. From our demo experience, we learned that what our team had in mind and Rodrigo had in mind for the project is aligned. 
