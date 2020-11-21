@@ -50,15 +50,11 @@ Organizationally, our team has been performing fairly well, the very significant
 ## Product - Review
 
 ### Q4. How was your product demo
+* How did you prepare your demo?
+* What did you manage to demo to your partner?
+* Did your partner accept the features?
+* Were there change requests?
+* What did you learn from the demo from either a process or product perspective?
+* *This section will be marked very leniently so keep it brief and just make sure the points are addressed*
 
- 1. How did you prepare your demo?
-    * Firstly we determined what constituted an MVP and what was achievable by our team by the due date. Following that, we distributed our work and created some of the easier aspects early to present to our partner.  
- 2. What did you manage to demo to your partner?
-    * We demoed the general structure of the web version of the application. This included a general sense of the UI and user navigation. Additionally of the apps we planned on creating links to, we were able to demo a simple version of the Google embedded app and facebook app which directs to the official facebook site.
- 3. Did your partner accept the features?
-    * Our partner was generally happy with our progress. He didn't have a very clear picture of what he wanted at the beginning and we set his expectations appropriately during our weekly meetings preceeding the demo.
- 4. Were there change requests?
-    * The MVP was at the time still not entirely completed, so our partner wanted to see more progress made after the demo and a deeper level of integration between the apps we were aiming to simplify and our product. We were able to make significant progress on that goal after the demo. Most of the applications are relatively simple in their implementation for now, but there are a couple that are more sophisticated (e.g. the YouTube and Google applications) which are more embedded than just direct links to external website. As we continue to work, it seems several applications are infeasible to deeply integrate with so external links may be the extent of our capabilities, but in this case we will extend the application to feature information before linking away.
- 5. What did you learn from the demo from either a process or product perspective?
-    * From a process perspective, our progress is accelerated closer to the due date, hence a large amount of progress was made after the demo. Much of the work was done within 2-3 days of the due date. In hindsight, it would have been better to demo closer to the due date but our meeting schedule made that a little complicated so we demoed early.
-    * From a product perspective, we weren't very certain of the exact expectations of our partner so the generally positive feedback from the demo gave us confidence that we were moving in the right direction.
+We did a demo with our project partner Rodrigo on November 9th, 2020. We prepared for the demo by having the project open and ready to run when our meeting began. We ran the server locally and opened up google chrome to view the application. We used the chrome browser development tools to display our application in mobile view. Doing so allowed Rodrigo to visualize how the application will look when we eventually convert it from a web application into a react native mobile application. In our demo, we showed Rodrigo the application home screen as well as one of the working components, namely Google. We have not yet completed our implementation of the other features on November 9th, which was why we only demoed the google component. We explained to Rodrigo that the other components would work similarly, which is when the component button is clicked, the user would be directed to the respective component pages. Rodrigo was very happy with our progress and accepted the features. There were no change requests. From our demo experience, we learned that what our team had in mind for the product and what Rodrigo had in mind for the product is congruent. 
