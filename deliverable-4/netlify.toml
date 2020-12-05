@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "https://happy-goldwasser-7387af.netlify.app"
+status = 200
