@@ -22,14 +22,12 @@ a:hover{
 
 header {
   grid-area: header;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.5rem;
-  background-color: #90C248;
-  color: #ffffff;
+  font-family: unset;
   display: block;
   line-height: 3.5rem;
-  text-align: center;
-  padding: .5rem;
+  padding: 1.5vh 5vh 1.5vh 5vh;
+  font-size: 300%;
+  font-weight: bold;
 }
 
 main {
@@ -42,13 +40,13 @@ main {
 }
 
 .button {
-  border: .1rem #c0c0c0 solid;
+  border: 0;
   background-color: #f0f0f0;
   display: inline-block;
   cursor: pointer;
   width: 100%;
   height: 100%;
-  border-radius: 10px;
+  border-radius: 20px !important;
 }
 
 .button:hover {
@@ -69,12 +67,21 @@ main {
 @media (max-width: 614px) {
     .row > div {
       height: 10vh !important;
-      padding: 10px !important;
+      padding: 0 10px 0 10px !important;
     }
+    header {
+      font-size: 150%;
+      padding: 1vh 15px 1vh 25px;
+    }
+}
 
-    .row {
-      padding-top: 30px;
-    }
+@media (min-width: 1500px) {
+  .row > div {
+    height: 30% !important;
+  }
+  .container-fluid {
+    height: 86vh !important;
+  }
 }
 
 .row > div {
@@ -82,14 +89,15 @@ main {
   height: 30vh;
 }
 
-header {
-  height: 10vh;
-}
-
 .container-fluid {
-  height: 90vh;
+  height: 88vh;
 }
 
 .row {
-  height: 100%
+  height: 100%;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 5vh !important;
+  border-radius: 20px !important;
+  background-color: rgba(0,123,255,.25) !important;
 }
