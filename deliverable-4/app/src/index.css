@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.grid-container {
+  height: 100vh;
+}
+
+a:hover{
+  color: white
+}
+
+header {
+  grid-area: header;
+  font-family: unset;
+  display: block;
+  line-height: 3.5rem;
+  padding: 1.5vh 5vh 1.5vh 5vh;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+main {
+  grid-area: main;
+}
+
+.content{
+  display: inline-block;
+  align-items: center;
+}
+
+.button {
+  border: 0;
+  background-color: #f0f0f0;
+  display: inline-block;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px !important;
+}
+
+.button:hover {
+  border: 0.1rem #808080 solid;
+}
+
+.button.primary {
+  background-color: #f0c040;
+}
+
+.button img {
+  width: 75%;
+  height: 75%; 
+  object-fit: contain;
+}
+
+/* small devices */
+@media (max-width: 614px) {
+    .row > div {
+      height: 10vh !important;
+      padding: 0 10px 0 10px !important;
+    }
+    header {
+      font-size: 150%;
+      padding: 1vh 15px 1vh 25px;
+    }
+}
+
+@media (min-width: 1500px) {
+  .row > div {
+    height: 30% !important;
+  }
+  .container-fluid {
+    height: 86vh !important;
+  }
+}
+
+.row > div {
+  padding: 5vh;
+  height: 30vh;
+}
+
+.container-fluid {
+  height: 88vh;
+}
+
+.row {
+  height: 100%;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-bottom: 5vh !important;
+  border-radius: 20px !important;
+  background-color: rgba(0,123,255,.25) !important;
+}
