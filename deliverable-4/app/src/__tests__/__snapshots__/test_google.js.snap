@@ -13,10 +13,12 @@ exports[`App snapshot renders 1`] = `
       }
     }
   />
-  <div>
+  <div
+    id="return-button-div"
+  >
     <button
       data-testid="return-button"
-      id="return-button"
+      id="return-button-google"
       onClick={[Function]}
       type="submit"
     >
