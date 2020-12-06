@@ -4,7 +4,7 @@ jobs:
     docker:
       - image: node:11.10.1
 
-    working_directory: ~/deliverable-2/app
+    working_directory: ~/deliverable-4/app
 
     steps:
       - checkout
@@ -16,10 +16,10 @@ jobs:
 #             # fallback to using the latest cache if no exact match is found
 #             - v1-dependencies-
 
-      - run: cd deliverable-2/app && npm install
-      - run: cd deliverable-2/app && npm test
-      - run: cd deliverable-2/app && npm run-script build
-      - run: cd deliverable-2/app && npm run-script netlify:deploy
+      - run: cd deliverable-4/app && npm install
+      - run: cd deliverable-4/app && npm test
+      - run: cd deliverable-4/app && npm run-script build
+      - run: cd deliverable-4/app && npm run-script netlify:deploy
 
 #       - save_cache:
 #           paths:
