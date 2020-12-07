@@ -47,7 +47,7 @@ const App = () => {
       </SafeAreaView>
   );
 }
-console.log(StatusBar.currentHeight)
+
 const styles = StyleSheet.create({
   container: {
     flex: 2,
