@@ -15,7 +15,7 @@ export default class GoogleInstructions extends Component {
   	render() {
     	return (
 
-          <div id="container=fluid" id="inst-cont">
+          <div id="container=fluid" className="inst-cont">
             <div id="row">
               <div id="col-12">
                 <img src={"images/laptop_man.png"} alt="google" id="lap-man-photo"></img>
