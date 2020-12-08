@@ -1,16 +1,16 @@
 .menu {
     width: 100vw;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: flex-start; */
     overflow-x: hidden;
     overflow-y: hidden;
 }
 
 .container-whatsapp {
     height: 100vh;
-    height: calc(var(--vh, 1vh) * 100);
+    /* height: calc(var(--vh, 1vh) * 100); */
     width: 100vw;
     display: flex;
     flex-direction: column;
@@ -51,7 +51,7 @@
     height: 80vh;
     overflow-y: scroll;
     overflow-x: hidden;
-    padding-bottom: 5vh;
+    padding-bottom: 20vh;
 }
 
 .instruction-header-whatsapp {
@@ -109,6 +109,7 @@ li {
     background: rgb(140, 190, 240);
     padding-bottom: 3vh;
     padding-top: 3vh;
+    overflow: hidden;
 }
 
 .button-div-whatsapp {

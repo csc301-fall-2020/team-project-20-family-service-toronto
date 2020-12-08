@@ -84,6 +84,7 @@ class WhatsApp extends Component {
                             className="more-help"
                             href={moreHelpLink}
                             target="_blank"
+                            rel='noreferrer'
                         >
                             Need more help? Click Me!
                         </a>
