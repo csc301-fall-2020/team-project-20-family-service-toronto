@@ -11,6 +11,7 @@ import { createBrowserHistory } from "history";
 
 // components
 import Google from './components/Google/Google.js';
+import GoogleInstructions from './components/Google/GoogleInstructions.js';
 import Facebook from './components/Facebook/Facebook.js'
 import WhatsApp from './components/WhatsApp/WhatsApp.js';
 import Email from './components/Email/Email.js'
@@ -23,6 +24,7 @@ ReactDOM.render(
 		<Switch>
 			<Route exact path="/" component={App} />
 			<Route exact path="/Google" component={Google} />
+			<Route exact path="/GoogleInstructions" component={GoogleInstructions} />
 			<Route exact path="/Facebook" component={Facebook} />
 			<Route exact path="/WhatsApp" component={WhatsApp} />
 			<Route exact path="/Email" component={Email} />

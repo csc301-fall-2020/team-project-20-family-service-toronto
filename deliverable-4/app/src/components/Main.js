@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Main extends Component {
 
 	route_Google = () => {
-		window.open("/Google", "_self");
+		window.open("/GoogleInstructions", "_self");
 	}
 
 	route_Facebook = () => {
