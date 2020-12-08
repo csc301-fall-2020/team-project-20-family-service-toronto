@@ -5,7 +5,7 @@ import './Google.css';
 export default class Google extends Component {
   
 	to_main = () => {
-		window.open("/", "_self");
+		window.open("/GoogleInstructions", "_self");
 	}
 
   	render() {
