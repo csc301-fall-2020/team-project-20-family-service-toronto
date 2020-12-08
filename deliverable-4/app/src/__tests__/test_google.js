@@ -7,12 +7,6 @@ import Google from '../components/Google/Google.js';
 
 
 describe('App', () => {
-	it('snapshot renders', () => {
-    	const component = renderer.create(<Google />);
-    	let tree = component.toJSON();
-    	expect(tree).toMatchSnapshot();
-  	});
-
   	it('renders without crashing', () => {
 	  	const div = document.createElement('div');
 	  	ReactDOM.render(<Google />, div);
