@@ -6,11 +6,18 @@ export default class Main extends Component {
 		window.open("/GoogleInstructions", "_self");
 	}
 
+	// route_Facebook = () => {
+	// 	const win = window.open("https://www.facebook.com", '_blank');
+	// 	if (win != null) {
+	// 		win.focus();
+	// 	}
+	// }
+
 	route_Facebook = () => {
-		const win = window.open("https://www.facebook.com", '_blank');
-		if (win != null) {
-			win.focus();
-		}
+		const win = window.open("/FacebookInstructions", '_self');
+	 	if (win != null) {
+	 		win.focus();
+	 	}
 	}
 
 	route_Email = () => {

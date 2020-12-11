@@ -13,6 +13,7 @@ import { createBrowserHistory } from "history";
 import Google from './components/Google/Google.js';
 import GoogleInstructions from './components/Google/GoogleInstructions.js';
 import Facebook from './components/Facebook/Facebook.js'
+import FacebookInstructions from './components/Facebook/FacebookInstructions.js'
 import WhatsApp from './components/WhatsApp/WhatsApp.js';
 import Email from './components/Email/Email.js'
 import YouTube from './components/YouTube/YouTube.js';
@@ -26,6 +27,7 @@ ReactDOM.render(
 			<Route exact path="/Google" component={Google} />
 			<Route exact path="/GoogleInstructions" component={GoogleInstructions} />
 			<Route exact path="/Facebook" component={Facebook} />
+			<Route exact path="/FacebookInstructions" component={FacebookInstructions} />
 			<Route exact path="/WhatsApp" component={WhatsApp} />
 			<Route exact path="/Email" component={Email} />
 			<Route exact path="/YouTube" component={YouTube} />
