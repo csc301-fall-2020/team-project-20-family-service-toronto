@@ -17,6 +17,7 @@ import FacebookInstructions from './components/Facebook/FacebookInstructions.js'
 import WhatsApp from './components/WhatsApp/WhatsApp.js';
 import Email from './components/Email/Email.js'
 import YouTube from './components/YouTube/YouTube.js';
+import Zoom from './components/Zoom/Zoom.js';
 
 const history = createBrowserHistory();
 
@@ -31,6 +32,7 @@ ReactDOM.render(
 			<Route exact path="/WhatsApp" component={WhatsApp} />
 			<Route exact path="/Email" component={Email} />
 			<Route exact path="/YouTube" component={YouTube} />
+			<Route exact path="/Zoom" component={Zoom} />
 		</Switch>
 	</Router>
   ,
