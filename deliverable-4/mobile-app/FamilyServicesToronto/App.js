@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 import {
   StatusBar,
   StyleSheet,
-  Button,
+  TouchableOpacity,
+  Text,
   SafeAreaView,
   View
 } from 'react-native';
@@ -17,14 +18,22 @@ const DEFAULT_URL = SOURCE_PROTOCOL + SOURCE_DOMAIN + SOURCE_EXT + SOURCE_PATH;
 const App = () => {
 
   const [source, setSource] = useState(DEFAULT_URL);
-  const [returnButtonVisibility, setReturnButtonVisibility] = useState(false);
+  const [returnButtonVisibility, setVisibility] = useState(false);
 
-  const handleStateChange = (navState) => {
-    // source domain exists in url
-    setReturnButtonVisibility(navState.url.indexOf(SOURCE_DOMAIN) < 0)
-  }
+  // source domain exists in url
+  const handleStateChange = nav => setVisibility(nav.url.indexOf(SOURCE_DOMAIN) < 0)
 
-  const handleReturnButtonPress = () => setSource(`${DEFAULT_URL}?t=${Date.now()}`);
+  const handleReturnButton = () => setSource(`${DEFAULT_URL}?t=${Date.now()}`);
+
+
+  const button = (
+    <TouchableOpacity
+      style={styles.returnButton}
+      onPress={handleReturnButton}
+    >
+      <Text style={styles.returnText}>Return to Main Menu</Text>
+    </TouchableOpacity> 
+  );
 
   return (
       <SafeAreaView style={{ flex: 1 }}>
@@ -39,11 +48,7 @@ const App = () => {
             onNavigationStateChange={handleStateChange}
           /> 
         </View>
-        {returnButtonVisibility ? <Button
-            adjustsFontSizeToFit
-            onPress={handleReturnButtonPress}
-            title="Return"
-        /> : null}
+        {returnButtonVisibility ? button : <></>}
       </SafeAreaView>
   );
 }
@@ -53,16 +58,23 @@ const styles = StyleSheet.create({
     flex: 2,
   },
   returnButton: {
-    flex: 4,
-    display: 'flex',
-    height: 40,
+    height: 50,
     fontSize: 34,
-    color: '#444',
-    borderRadius: 20,
+    color: '#FFFFFF',
+    borderTopLeftRadius: 10,
+    borderTopRightRadius: 10,
+    paddingTop: 10,
+    paddingBottom: 10,
+    backgroundColor: 'rgba(0,123,255,.25)'
+  },
+  returnText: {
+    color: '#FFFFFF',
+    textAlign: 'center',
+    fontFamily:"sans-serif",
+    fontSize: 25,
   },
   webView: {
     flex: 3,
-    marginTop: StatusBar.currentHeight,
     marginBottom: 0,
     marginLeft: 0,
     marginRight: 0,
