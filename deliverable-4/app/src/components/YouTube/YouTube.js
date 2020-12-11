@@ -37,9 +37,13 @@ export default class YouTube extends Component {
     render() {
         return (
             <div className="youtube">
-                <YouTubeSearch handleSearchSubmit={this.handleSubmit}/>
-                <div className="videos">
+                <div className='search'>
+                    <YouTubeSearch handleSearchSubmit={this.handleSubmit}/>
+                </div>
+                <div className="focus-video">
                     {this.state.currentVideo ? <YouTubeVideo video={this.state.currentVideo}/> : null}
+                </div>
+                <div className="list">
                     {this.state.videos.length > 0 ? <YouTubeVideoList videos={this.state.videos} handleVideoSelect={this.handleVideoSelect}/> : null}
                 </div>
                 <div className="return">

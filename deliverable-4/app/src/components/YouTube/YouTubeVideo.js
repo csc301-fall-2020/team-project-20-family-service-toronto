@@ -5,9 +5,13 @@ const YouTubeVideo = ({ video }) => {
     const url = `https://www.youtube.com/embed/${video.id.videoId}`;
 
     return (
-        <div className="video">
-            <iframe title="Video" className="video-frame" src={url}/>
-            <p className="description">{video.snippet.description}</p>
+        <div>
+            <div className="video">
+                <iframe className="video-frame" title="Video" src={url}/>
+            </div>
+            <div className="description">
+                <p>{video.snippet.description}</p>
+            </div>
         </div>
     );
 };

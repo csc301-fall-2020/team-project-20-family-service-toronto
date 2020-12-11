@@ -3,7 +3,7 @@ import './YouTube.css';
 
 const YouTubeVideoList = ({ videos, handleVideoSelect }) => {
     return (
-        <div className="list">
+        <div>
             {videos.map((video) =>
                 (<div className="list-card" onClick={() => handleVideoSelect(video)}>
                     <img

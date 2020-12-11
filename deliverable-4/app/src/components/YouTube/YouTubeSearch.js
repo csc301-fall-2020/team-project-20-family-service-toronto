@@ -22,7 +22,7 @@ export default class YouTubeSearch extends Component {
 
     render() {
         return (
-            <div className='search'>
+            <div>
                 <form onSubmit={this.handleSubmit}>
                     <input
                         id='searchbar'
