@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "FamilyServicesToronto",
+    "name": "Family Services Toronto",
     "slug": "FamilyServicesToronto",
+    "description": "This app is to make it easier for seniors to use common functionality of their phone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,13 +18,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.familyservicestoronto.FSTApp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.familyservicestoronto.FSTApp"
     },
     "web": {
       "favicon": "./assets/icon.png"
