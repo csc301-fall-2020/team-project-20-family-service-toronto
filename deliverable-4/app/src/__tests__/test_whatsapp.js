@@ -1,33 +1,18 @@
-import '@testing-library/jest-dom'
+import { render, screen, fireEvent } from '@testing-library/react';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import renderer from 'react-test-renderer';
 
 import WhatsApp from '../components/WhatsApp/WhatsApp.js';
 
-let windowSpy, createLink = undefined;
-let destination_url = "https://web.whatsapp.com";
-
 describe('App', () => {
-
-    beforeAll(() => {
-        expect(WhatsApp.prototype).toHaveProperty("createWhatsAppLink")
-        createLink = WhatsApp.prototype.createWhatsAppLink
-        expect(createLink instanceof Function).toBeTruthy();
-    })
-
-    beforeEach(() => {
-        windowSpy = jest.spyOn(window, "window", "get");
-        destination_url = createLink("")
-        windowSpy.mockImplementation(() => ({
-            location: {
-                origin: destination_url
-            }
-        }));
+    it('renders without crashing', () => {
+        const div = document.createElement('div');
+        ReactDOM.render(<WhatsApp />, div);
     });
-
-    afterEach(() => {
-        windowSpy.mockRestore();
-    })
-
-    it('redirects to expected url', () => {
-        expect(window.location.origin).toMatch(destination_url)
-    })
+    it('return button successful', () => {
+        const { getByText } = render(<WhatsApp />);
+      const button = getByText('Return To Main Menu');
+      fireEvent.click(button);
+    });
 });
