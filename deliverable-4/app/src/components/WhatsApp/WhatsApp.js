@@ -7,7 +7,7 @@ class WhatsApp extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            view: 0
+            view: false
         }
     }
 
@@ -44,7 +44,13 @@ class WhatsApp extends Component {
                         </div>
 
                         <div className="button-div-whatsapp">
-                            
+                            <button
+                                className="button-whatsapp"
+                                onClick={() => this.setState({ view: true })}
+                                type="submit"
+                            >
+                                WhatsApp Instructions
+                            </button>
                         </div>
                         <div className="button-div-whatsapp">
                             <button
