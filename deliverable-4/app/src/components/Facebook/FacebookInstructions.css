@@ -1,0 +1,30 @@
+#instructions-buttons {
+	background-color: rgba(0,123,255,.25);
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+#facebook-app-button {
+	width: 80%;
+	margin-top: 20px;
+	margin-bottom: 30px !important;
+}
+
+#to-main-button {
+	width: 80%;
+}
+
+ol {
+	padding-right: 20px;
+	font-size: 2vh;
+}
+
+.inst-cont {
+	height: 100vh;
+	width: 100vw;
+}
+
+#lap-man-photo {
+	width: 100%;
+}
