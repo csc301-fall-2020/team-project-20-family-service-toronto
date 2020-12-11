@@ -21,7 +21,7 @@ export default class Main extends Component {
 
 	route_YouTube = () => window.open("/YouTube", "_self");
 
-	route_Zoom = () => {window.open("/Zoom", "_self");}
+	route_Zoom = () => window.open("/Zoom", "_self");
 
 	get_curr_date = () => {
 	    var today = new Date();
