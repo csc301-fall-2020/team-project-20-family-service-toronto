@@ -18,7 +18,7 @@ export default class FacebookInstructions extends Component {
           <div id="container=fluid" className="inst-cont">
             <div id="row">
               <div id="col-12">
-                <img src={"images/laptop_man.png"} alt="google" id="lap-man-photo"></img>
+                <img src={"images/phone-image.png"} alt="google" id="lap-man-photo"></img>
               </div>
               <div id="col-12">
                 <header>Instructions</header>
