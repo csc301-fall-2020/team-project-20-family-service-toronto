@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     borderTopRightRadius: 10,
     paddingTop: 10,
     paddingBottom: 10,
-    backgroundColor: 'rgba(0,123,255,.25)'
+    backgroundColor: 'rgb(140, 190, 240)'
   },
   returnText: {
     color: '#FFFFFF',
