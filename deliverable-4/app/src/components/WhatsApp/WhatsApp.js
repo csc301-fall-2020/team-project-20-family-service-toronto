@@ -12,6 +12,26 @@ class WhatsApp extends Component {
     }
 
   	render() {
+        let button = undefined;
+        if (/Android/i.test(navigator.userAgent)) {
+            button = (
+                <button
+                    className='button-whatsapp'
+                    onClick={() => window.open('https://wa.me/', '_self')}
+                >
+                    Open WhatsApp
+                </button>
+            );
+        } else {
+            button = (
+                <button
+                    className='button-whatsapp'
+                    onClick={() => window.open('WhatsApp://', '_self')}
+                >
+                    Open WhatsApp
+                </button>
+            );
+        }
         if (!this.state.view) {
             return (
                 <div className="menu">
@@ -20,21 +40,11 @@ class WhatsApp extends Component {
                     </h1>
                     <div className="option-group-whatsapp">
                         <div className="button-div-whatsapp">
-                            <button
-                                className='button-whatsapp'
-                                onClick={() => this.setState({ view: 1 })}
-                            >
-                                Read Some Instructions
-                            </button>
+                            {button}
                         </div>
 
                         <div className="button-div-whatsapp">
-                            <button
-                                className='button-whatsapp'
-                                onClick={() => window.open('WhatsApp://', '_self')}
-                            >
-                                Open WhatsApp
-                            </button>
+                            
                         </div>
                         <div className="button-div-whatsapp">
                             <button
@@ -91,12 +101,7 @@ class WhatsApp extends Component {
                     </div>
                     <div className="button-group-whatsapp">
                         <div className="button-div-whatsapp">
-                            <button
-                                className='button-whatsapp'
-                                onClick={() => window.open('WhatsApp://', '_self')}
-                            >
-                                Open WhatsApp
-                            </button>
+                            {button}
                         </div>
                         <div className="button-div-whatsapp">
                             <button
