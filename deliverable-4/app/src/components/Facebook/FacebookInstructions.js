@@ -33,7 +33,7 @@ export default class FacebookInstructions extends Component {
               <div id="col-12">
                 <div id="instructions-buttons">
                   <button className="button shadow p-3 mb-5 bg-white rounded" 
-                          id="google-app-button"
+                          id="facebook-app-button"
                           onClick={() => this.to_facebook()} 
                           type="submit">Facebook Application</button>
                   <button className="button shadow p-3 mb-5 bg-white rounded" 
