@@ -11,10 +11,9 @@ export default class Zoom extends Component {
   	render() {
     	return (
       		<div id="container">
-        		<Iframe id="zoom-iframe" src="https://zoom.us/download"/>
-        		<div>
-        			<button id="return-button" onClick={() => this.to_main()} type="submit"> Return </button>
-        		</div>
+				<h1 className="menu-header-zoom">
+					What would you like to do?
+				</h1>
       		</div>
     	);
   	}
