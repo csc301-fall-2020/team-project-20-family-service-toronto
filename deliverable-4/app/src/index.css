@@ -91,6 +91,7 @@ main {
 
 .container-fluid {
   height: 90vh;
+  margin-bottom: 20px;
 }
 
 .row {
