@@ -18,6 +18,12 @@ import WhatsApp from './components/WhatsApp/WhatsApp.js';
 import Email from './components/Email/Email.js'
 import YouTube from './components/YouTube/YouTube.js';
 import Zoom from './components/Zoom/Zoom.js';
+import GmailOptions from './components/Email/Gmail/GmailOptions.js'
+import GmailInstructions from './components/Email/Gmail/GmailInstructions.js'
+import OutlookOptions from './components/Email/Outlook/OutlookOptions.js'
+import OutlookInstructions from './components/Email/Outlook/OutlookInstructions.js'
+import YahooMailOptions from './components/Email/YahooMail/YahooMailOptions.js'
+import YahooMailInstructions from './components/Email/YahooMail/YahooMailInstructions.js'
 
 const history = createBrowserHistory();
 
@@ -31,6 +37,12 @@ ReactDOM.render(
 			<Route exact path="/FacebookInstructions" component={FacebookInstructions} />
 			<Route exact path="/WhatsApp" component={WhatsApp} />
 			<Route exact path="/Email" component={Email} />
+			<Route exact path="/GmailOptions" component={GmailOptions} />
+			<Route exact path="/GmailInstructions" component={GmailInstructions} />
+			<Route exact path="/OutlookOptions" component={OutlookOptions} />
+			<Route exact path="/OutlookInstructions" component={OutlookInstructions} />	
+			<Route exact path="/YahooMailOptions" component={YahooMailOptions} />
+			<Route exact path="/YahooMailInstructions" component={YahooMailInstructions} />	
 			<Route exact path="/YouTube" component={YouTube} />
 			<Route exact path="/Zoom" component={Zoom} />
 		</Switch>
