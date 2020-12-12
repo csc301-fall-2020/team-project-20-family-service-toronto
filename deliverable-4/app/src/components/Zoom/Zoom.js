@@ -17,8 +17,7 @@ export default class Zoom extends Component {
                 <h2>If Zoom is installed:</h2>
                 <ol>
                   <li>Press the <i>Join Zoom</i> button to join a Zoom Meeting</li>
-                  <li>Press the <b>Join Meeting</b> button</li>
-                  <li>Enter the meeting ID the meeting host provided</li>
+                  <li>Enter the meeting ID the meeting host provided and press <b>Join</b></li>
                   <li>Enter the password if applicable</li>
                 </ol>
                 <h2>Creating your own account:</h2>
