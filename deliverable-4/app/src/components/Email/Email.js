@@ -1,27 +1,23 @@
 import React, { Component } from "react";
+import './Email.css';
 
 export default class Email extends Component {
 
 	route_Gmail = () => {
-		const win = window.open("https://www.gmail.com", '_blank');
-		if (win != null) {
-			win.focus();
-		}
+		window.open("/GmailOptions", "_self");
 	}
 
 	route_Outlook = () => {
-		const win = window.open("https://outlook.office.com/", '_blank');
-  		if (win != null) {
-    		win.focus();
-  		}
+		window.open("/OutlookOptions", "_self");
 	}
   
 	route_Yahoo_Mail = () => {
-		const win = window.open("https://mail.yahoo.com/", '_blank');
-  		if (win != null) {
-    		win.focus();
-  		}
+		window.open("/YahooMailOptions", "_self");
 	}
+
+	to_main = () => {
+      window.open("/", "_self");
+    }
 
 	render() {
     	return (
@@ -51,10 +47,13 @@ export default class Email extends Component {
 							type="submit"> 
 							<img src={"../../../images/Yahoo-Mail.png"} alt="Yahoo Mail"></img> 
 						</button>
-		      		</div>
+					</div>
 		      	</div>
-		      </div>
-		    </div>
+			  </div>
+				<div id="return-button-div-email">
+        			<button id="return-button-email"  data-testid="return-button" onClick={() => this.to_main()} type="submit">Return to Main Page</button>
+        		</div>
+			</div>
     	);
   	}
 }
