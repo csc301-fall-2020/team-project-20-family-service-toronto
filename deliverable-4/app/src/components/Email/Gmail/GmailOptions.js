@@ -44,7 +44,7 @@ export default class GmailOptions extends Component {
                 <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Gmail_Instructions()} 
                   type="submit"> 
-                  <h4>Gmail Instructions Page</h4>
+                  <b>Gmail Instructions Page</b>
                 </button>
             </div>
           </div>
