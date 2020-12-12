@@ -75,7 +75,7 @@ export default class OutlookInstructions extends Component {
                         <br></br>
                     </div>
                     <div id="col-12">
-                        <div id="instructions-buttons">
+                        <div id="instructions-buttons-email">
                             <button className="button shadow p-3 mb-5 bg-white rounded" 
                                     onClick={() => this.route_Outlook()}
                                     type="submit">Open Outlook</button>

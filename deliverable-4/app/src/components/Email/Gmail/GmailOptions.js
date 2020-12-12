@@ -29,11 +29,11 @@ export default class GmailOptions extends Component {
         <header>
           Gmail
         </header>
-        <div className="container-fluid">
+        <div className="container-fluid" id="gmail-cont">
           <div className="row">
             <div className="col-xs-12 col-md-6 text-center">
                 <h5>Proceed to Gmail</h5>
-                <button className="button" 
+                <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Gmail()} 
                   type="submit"> 
                   <img src={"../../../images/gmail.png"} alt="Gmail"></img> 
@@ -41,26 +41,25 @@ export default class GmailOptions extends Component {
             </div>
             <div className="col-xs-12 col-md-6 text-center">
                 <h5>Simple guide to Gmail</h5>
-                <button className="button" 
+                <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Gmail_Instructions()} 
                   type="submit"> 
                   <h4>Gmail Instructions Page</h4>
                 </button>
             </div>
-            <div id="col-12">
-              <div id="instructions-buttons">
+          </div>
+        </div>
+         <div id="instructions-buttons">
                 <button className="button shadow p-3 mb-5 bg-white rounded" 
-                        id="to-main-button"
+                        id="to-main-button-gmail"
                         onClick={() => this.to_email()}
                         type="submit">Return to Email Page</button>
                 <button className="button shadow p-3 mb-5 bg-white rounded" 
                         id="to-email-button"
                         onClick={() => this.to_main()}
                         type="submit">Return to Main Page</button>
-              </div>
-            </div> 
-          </div>
-        </div>       
+            
+            </div>   
       </div>
     );
   }
