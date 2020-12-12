@@ -43,7 +43,7 @@ export default class YahooMailOptions extends Component {
                 <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Yahoo_Mail_Instructions()}
                   type="submit"> 
-                  <h4>Yahoo Mail Instructions Page</h4>
+                  <b>Yahoo Instructions Page</b>
                 </button>
             </div>
           </div>
