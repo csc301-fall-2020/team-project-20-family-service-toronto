@@ -43,7 +43,7 @@ export default class OutlookOptions extends Component {
                 <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Outlook_Instructions()} 
                   type="submit"> 
-                  <b>Outlook Instructions Page<b>
+                  <b>Outlook Instructions Page</b>
                 </button>
             </div>
           </div>
