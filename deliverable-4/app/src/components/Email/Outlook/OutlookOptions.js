@@ -33,7 +33,7 @@ export default class OutlookOptions extends Component {
             <div className="col-xs-12 col-md-6 text-center">
                 <h5>Proceed to Outlook</h5>
                 <button className="button" 
-                  onClick={this.route_Outlook()}
+                  onClick={() => this.route_Outlook()}
                   type="submit"> 
                   <img src={"../../../images/Microsoft-Outlook.png"} alt="Outlook"></img> 
                 </button>
@@ -41,7 +41,7 @@ export default class OutlookOptions extends Component {
             <div className="col-xs-12 col-md-6 text-center">
                 <h5>Simple guide to Outlook</h5>
                 <button className="button" 
-                  onClick={() => (this.route_Outlook_Instructions())} 
+                  onClick={() => (() => this.route_Outlook_Instructions())} 
                   type="submit"> 
                   <h4>Outlook Instructions Page</h4>
                 </button>
