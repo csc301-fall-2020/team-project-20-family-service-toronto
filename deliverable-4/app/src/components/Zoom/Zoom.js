@@ -38,7 +38,7 @@ export default class Zoom extends Component {
                 <div id="instructions-buttons">
 				          <button className="button shadow p-3 mb-5 bg-white rounded" 
                           id="zoomjoin-app-button"
-                          onClick={() => window.open('join.zoom.us', '_self')}
+                          onClick={() => window.open('https://join.zoom.us/', '_self')}
                           type="submit">Join Zoom</button>
                   <button className="button shadow p-3 mb-5 bg-white rounded" 
                           id="to-main-button"
