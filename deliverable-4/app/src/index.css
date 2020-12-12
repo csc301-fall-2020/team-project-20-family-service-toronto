@@ -90,7 +90,7 @@ main {
 }
 
 .container-fluid {
-  height: 88vh;
+  height: 90vh;
 }
 
 .row {
@@ -100,4 +100,9 @@ main {
   margin-bottom: 5vh !important;
   border-radius: 20px !important;
   background-color: rgba(0,123,255,.25) !important;
+  padding-top: 20px;
+}
+
+ul {
+  font-size: 2vh;
 }

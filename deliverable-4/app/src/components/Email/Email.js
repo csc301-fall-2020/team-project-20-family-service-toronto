@@ -28,22 +28,22 @@ export default class Email extends Component {
 		      <div className="container-fluid">
 		      	<div className="row">
 		      		<div className="col-xs-12 col-md-6">
-		      			<button className="button" 
+		      			<button className="button shadow p-3 mb-5 bg-white rounded" 
 							onClick={() => this.route_Gmail()} 
 							type="submit"> 
 							<img src={"../../../images/gmail.png"} alt="Gmail"></img> 
 						</button>
 		      		</div>
 		      		<div className="col-xs-12 col-md-6">
-						  <button className="button"
-						  	onClick={() => this.route_Outlook ()} 
+						  <button className="button shadow p-3 mb-5 bg-white rounded"
+						  	onClick={() => this.route_Outlook()} 
 							type="submit"> 
 							<img src={"../../../images/Microsoft-Outlook.png"} alt="Outlook"></img> 
 						</button>
 					</div>
 					<div className="col-xs-12 col-md-6">
-						  <button className="button"
-						  	onClick={() => this.route_Yahoo_Mail ()} 
+						  <button className="button shadow p-3 mb-5 bg-white rounded"
+						  	onClick={() => this.route_Yahoo_Mail()} 
 							type="submit"> 
 							<img src={"../../../images/Yahoo-Mail.png"} alt="Yahoo Mail"></img> 
 						</button>

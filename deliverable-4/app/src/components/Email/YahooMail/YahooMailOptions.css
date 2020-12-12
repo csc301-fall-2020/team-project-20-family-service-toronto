@@ -26,8 +26,21 @@
 	margin-bottom: 30px !important;
 }
 
-#to-main-button {
+#to-main-button-yahoo {
 	width: 80%;
+	margin-top: 20px;
+}
+
+#yahoo-cont {
+	margin-bottom: 20px;
+}
+
+#instructions-buttons-email {
+	background: rgb(140, 190, 240);
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 20px;
 }
 
 

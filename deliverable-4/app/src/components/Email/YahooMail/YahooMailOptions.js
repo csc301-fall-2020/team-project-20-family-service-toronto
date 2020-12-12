@@ -28,11 +28,11 @@ export default class YahooMailOptions extends Component {
         <header>
           Yahoo Mail
         </header>
-        <div className="container-fluid">
+        <div className="container-fluid" id="yahoo-cont">
           <div className="row">
             <div className="col-xs-12 col-md-6 text-center">
                 <h5>Proceed to Yahoo Mail</h5>
-                <button className="button" 
+                <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Yahoo_Mail()} 
                   type="submit"> 
                   <img src={"../../../images/Yahoo-Mail.png"} alt="Yahoo Mail"></img> 
@@ -40,26 +40,24 @@ export default class YahooMailOptions extends Component {
             </div>
             <div className="col-xs-12 col-md-6 text-center">
                 <h5>Simple guide to Yahoo Mail</h5>
-                <button className="button" 
+                <button className="button shadow p-3 mb-5 bg-white rounded" 
                   onClick={() => this.route_Yahoo_Mail_Instructions()}
                   type="submit"> 
                   <h4>Yahoo Mail Instructions Page</h4>
                 </button>
             </div>
-            <div id="col-12">
-              <div id="instructions-buttons">
-                <button className="button shadow p-3 mb-5 bg-white rounded" 
-                  id="to-main-button"
-                  onClick={() => this.to_email()}
-                  type="submit">Return to Email Page</button>
-                <button className="button shadow p-3 mb-5 bg-white rounded" 
-                  id="to-email-button"
-                  onClick={() => this.to_main()}
-                  type="submit">Return to Main Page</button>
-              </div>
-            </div>
           </div>
-        </div>        
+        </div>
+        <div id="instructions-buttons">
+          <button className="button shadow p-3 mb-5 bg-white rounded" 
+            id="to-main-button-yahoo"
+            onClick={() => this.to_email()}
+            type="submit">Return to Email Page</button>
+          <button className="button shadow p-3 mb-5 bg-white rounded" 
+            id="to-email-button"
+            onClick={() => this.to_main()}
+            type="submit">Return to Main Page</button>
+        </div>    
       </div>
     );
   }
