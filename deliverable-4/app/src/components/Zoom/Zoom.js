@@ -17,6 +17,7 @@ export default class Zoom extends Component {
                 <h2>If Zoom is installed:</h2>
                 <ol>
                   <li>Press the <i>Join Zoom</i> button to join a Zoom Meeting</li>
+                  <li>Press the <b>Join Meeting</b> button</li>
                   <li>Enter the meeting ID the meeting host provided</li>
                   <li>Enter the password if applicable</li>
                 </ol>
@@ -37,7 +38,7 @@ export default class Zoom extends Component {
                 <div id="instructions-buttons">
 				          <button className="button shadow p-3 mb-5 bg-white rounded" 
                           id="zoomjoin-app-button"
-                          onClick={() => window.open('zoomus://zoom.us/join', '_self')}
+                          onClick={() => window.open('join.zoom.us', '_self')}
                           type="submit">Join Zoom</button>
                   <button className="button shadow p-3 mb-5 bg-white rounded" 
                           id="to-main-button"
