@@ -20,7 +20,7 @@ The Senior Simple Screen mobile application, built in React, works on Android vi
 
 ## Project Links
 
-- Video demo: (to be added)
+- Video demo: <https://www.youtube.com/watch?v=jAVMmRMAYNE&ab_channel=CSC301FamilyServiceToronto>
 - GitHub:
   - Repository Link: <https://github.com/csc301-fall-2020/team-project-20-family-service-toronto>
     - Deliverable 2 README <https://github.com/csc301-fall-2020/team-project-20-family-service-toronto/blob/master/deliverable-2/README.md>
